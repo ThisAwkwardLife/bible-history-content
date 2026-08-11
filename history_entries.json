@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "BH001",
+    "name": "Hezekiah",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Judah",
+    "dateDisplay": "c. 715\u2013686 BC",
+    "summary": "Hezekiah ruled Judah during the Assyrian crisis and is remembered for religious reform, trust in God, and his confrontation with Sennacherib's empire.",
+    "scriptureReferences": [
+      "2 Kings 18\u201320",
+      "2 Chronicles 29\u201332",
+      "Isaiah 36\u201339"
+    ],
+    "relatedEntryIDs": [
+      "BH002",
+      "BH003",
+      "BH004",
+      "BH005"
+    ],
+    "quickFacts": [
+      "Isaiah was active during Hezekiah's reign.",
+      "Sennacherib invaded Judah during Hezekiah's reign.",
+      "The Assyrian campaign against Judah is also known from ancient Assyrian records."
+    ],
+    "location": "Judah / Jerusalem",
+    "certaintyNote": "Exact regnal chronology is debated; dates are approximate.",
+    "sources": [
+      {
+        "title": "2 Kings 18\u201320",
+        "type": "Scripture",
+        "note": "Primary biblical narrative for Hezekiah's reign and the Assyrian crisis.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 29\u201332",
+        "type": "Scripture",
+        "note": "Parallel biblical account emphasizing reforms and the Assyrian invasion.",
+        "url": null
+      },
+      {
+        "title": "Isaiah 36\u201339",
+        "type": "Scripture",
+        "note": "Prophetic account of the confrontation with Assyria.",
+        "url": null
+      },
+      {
+        "title": "Taylor Prism / Sennacherib Prism",
+        "type": "Archaeology",
+        "note": "Assyrian royal inscription that names Hezekiah and records tribute from Judah.",
+        "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1"
+      }
+    ]
+  },
+  {
+    "id": "BH002",
+    "name": "Sennacherib",
+    "category": "Kings & Royalty",
+    "subtitle": "King of the Neo-Assyrian Empire",
+    "dateDisplay": "704\u2013681 BC",
+    "summary": "Sennacherib was one of Assyria's most powerful rulers. His 701 BC campaign against Judah brought his forces into direct conflict with King Hezekiah.",
+    "scriptureReferences": [
+      "2 Kings 18\u201319",
+      "2 Chronicles 32",
+      "Isaiah 36\u201337"
+    ],
+    "relatedEntryIDs": [
+      "BH001",
+      "BH004",
+      "BH005"
+    ],
+    "quickFacts": [
+      "Sennacherib made Nineveh a major royal center.",
+      "His records mention Hezekiah of Judah.",
+      "His palace displayed reliefs celebrating the conquest of Lachish."
+    ],
+    "location": "Assyria / Nineveh",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 18\u201319",
+        "type": "Scripture",
+        "note": "Biblical account of Sennacherib's campaign against Judah.",
+        "url": null
+      },
+      {
+        "title": "Isaiah 36\u201337",
+        "type": "Scripture",
+        "note": "Parallel prophetic account of the Assyrian confrontation.",
+        "url": null
+      },
+      {
+        "title": "Taylor Prism / Sennacherib Prism",
+        "type": "Archaeology",
+        "note": "Royal inscription describing Sennacherib's campaigns and mentioning Hezekiah.",
+        "url": "https://www.britishmuseum.org/collection/object/W_1855-1003-1"
+      }
+    ]
+  },
+  {
+    "id": "BH003",
+    "name": "Isaiah",
+    "category": "Prophets",
+    "subtitle": "Prophet of Judah",
+    "dateDisplay": "8th century BC",
+    "summary": "Isaiah ministered in Judah across the reigns of Uzziah, Jotham, Ahaz, and Hezekiah and played a key role during the Assyrian crisis.",
+    "scriptureReferences": [
+      "Isaiah",
+      "2 Kings 19\u201320"
+    ],
+    "relatedEntryIDs": [
+      "BH001",
+      "BH002",
+      "BH004"
+    ],
+    "quickFacts": [
+      "Isaiah's ministry crossed the reigns of four kings named in Isaiah 1:1.",
+      "He appears directly in the Hezekiah narrative.",
+      "His ministry took place during the rise of Assyrian power."
+    ],
+    "location": "Judah / Jerusalem",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "Isaiah 1:1",
+        "type": "Scripture",
+        "note": "Names the Judean kings during Isaiah's ministry.",
+        "url": null
+      },
+      {
+        "title": "2 Kings 19\u201320",
+        "type": "Scripture",
+        "note": "Places Isaiah directly in the Hezekiah narrative.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH004",
+    "name": "Siege of Lachish",
+    "category": "Battles & Wars",
+    "subtitle": "Assyrian campaign in Judah",
+    "dateDisplay": "701 BC",
+    "summary": "During Sennacherib's campaign against Judah, the fortified city of Lachish was attacked and captured before the confrontation over Jerusalem.",
+    "scriptureReferences": [
+      "2 Kings 18",
+      "2 Chronicles 32",
+      "Isaiah 36"
+    ],
+    "relatedEntryIDs": [
+      "BH001",
+      "BH002",
+      "BH003",
+      "BH005"
+    ],
+    "quickFacts": [
+      "Lachish was one of Judah's major fortified cities.",
+      "The campaign occurred during Hezekiah's reign.",
+      "Ancient Assyrian reliefs portray the city's conquest."
+    ],
+    "location": "Lachish, Judah",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 18",
+        "type": "Scripture",
+        "note": "Places Sennacherib at Lachish during the campaign against Judah.",
+        "url": null
+      },
+      {
+        "title": "Isaiah 36",
+        "type": "Scripture",
+        "note": "Parallel account linking Lachish and the Jerusalem confrontation.",
+        "url": null
+      },
+      {
+        "title": "Lachish Reliefs",
+        "type": "Archaeology",
+        "note": "Assyrian palace reliefs depicting the conquest of Lachish.",
+        "url": "https://www.britishmuseum.org/collection/object/W_1856-0909-14_7"
+      }
+    ]
+  },
+  {
+    "id": "BH005",
+    "name": "Lachish Reliefs",
+    "category": "Archaeology & Artifacts",
+    "subtitle": "Assyrian palace reliefs",
+    "dateDisplay": "c. 700\u2013692 BC",
+    "summary": "These carved palace panels depict the Assyrian conquest of Lachish and provide a rare visual window into warfare, prisoners, and royal propaganda from the biblical world.",
+    "scriptureReferences": [
+      "2 Kings 18",
+      "Isaiah 36"
+    ],
+    "relatedEntryIDs": [
+      "BH002",
+      "BH004",
+      "BH001"
+    ],
+    "quickFacts": [
+      "The reliefs came from Sennacherib's palace at Nineveh.",
+      "They depict siege warfare and Judean captives.",
+      "They are now held by the British Museum."
+    ],
+    "location": "Nineveh (original); London (today)",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "Lachish Reliefs \u2014 British Museum",
+        "type": "Museum",
+        "note": "Collection records for the surviving Assyrian relief panels from Sennacherib's palace.",
+        "url": "https://www.britishmuseum.org/collection/object/W_1856-0909-14_7"
+      },
+      {
+        "title": "2 Kings 18",
+        "type": "Scripture",
+        "note": "Biblical context for Sennacherib's campaign and Lachish.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH006",
+    "name": "Saul",
+    "category": "Kings & Royalty",
+    "subtitle": "First king of Israel",
+    "dateDisplay": "11th century BC",
+    "summary": "Saul, from the tribe of Benjamin, became Israel's first king. His reign includes wars with the Philistines, his troubled relationship with David, and his death at Mount Gilboa.",
+    "scriptureReferences": [
+      "1 Samuel 9\u201331",
+      "1 Chronicles 10"
+    ],
+    "relatedEntryIDs": [
+      "BH007",
+      "BH009"
+    ],
+    "quickFacts": [
+      "Saul was from the tribe of Benjamin.",
+      "Samuel anointed Saul as king.",
+      "Saul and his sons died after the battle at Mount Gilboa."
+    ],
+    "location": "Israel",
+    "certaintyNote": "Absolute dates for Saul's reign are uncertain.",
+    "sources": [
+      {
+        "title": "1 Samuel 9\u201331",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "1 Chronicles 10",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH007",
+    "name": "David",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Israel and Judah",
+    "dateDisplay": "c. 10th century BC",
+    "summary": "David rose from shepherd and warrior to king, established Jerusalem as his royal center, and became the central royal figure in Israel's biblical tradition.",
+    "scriptureReferences": [
+      "1 Samuel 16\u201331",
+      "2 Samuel",
+      "1 Kings 1\u20132",
+      "1 Chronicles 11\u201329"
+    ],
+    "relatedEntryIDs": [
+      "BH006",
+      "BH008",
+      "BH010"
+    ],
+    "quickFacts": [
+      "David first served in Saul's court.",
+      "Jerusalem became David's royal capital.",
+      "The biblical books of Samuel give the fullest narrative of his reign."
+    ],
+    "location": "Jerusalem / Israel",
+    "certaintyNote": "The scale and political character of David's kingdom remain subjects of archaeological debate.",
+    "sources": [
+      {
+        "title": "1 Samuel 16\u201331",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Samuel",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "1 Chronicles 11\u201329",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH008",
+    "name": "Solomon",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Israel",
+    "dateDisplay": "c. 10th century BC",
+    "summary": "Solomon succeeded David and is remembered for wisdom, international connections, major building projects, and construction of the First Temple in Jerusalem.",
+    "scriptureReferences": [
+      "1 Kings 1\u201311",
+      "2 Chronicles 1\u20139"
+    ],
+    "relatedEntryIDs": [
+      "BH007",
+      "BH010",
+      "BH011"
+    ],
+    "quickFacts": [
+      "Solomon was a son of David.",
+      "The First Temple is attributed to his reign in the biblical account.",
+      "After Solomon, the kingdom divided."
+    ],
+    "location": "Jerusalem / Israel",
+    "certaintyNote": "Precise absolute dates and the scale of Solomon's kingdom are debated.",
+    "sources": [
+      {
+        "title": "1 Kings 1\u201311",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 1\u20139",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH009",
+    "name": "Samuel",
+    "category": "Prophets",
+    "subtitle": "Prophet and judge",
+    "dateDisplay": "11th century BC",
+    "summary": "Samuel stands at the transition from Israel's judges to monarchy. He anointed Saul and later David and repeatedly confronted Israel's kings with prophetic authority.",
+    "scriptureReferences": [
+      "1 Samuel 1\u201325"
+    ],
+    "relatedEntryIDs": [
+      "BH006",
+      "BH007"
+    ],
+    "quickFacts": [
+      "Samuel's mother was Hannah.",
+      "Samuel anointed both Saul and David.",
+      "His life bridges the era of the judges and kings."
+    ],
+    "location": "Israel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "1 Samuel 1\u201325",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH010",
+    "name": "Jerusalem",
+    "category": "Places & Events",
+    "subtitle": "Royal and religious center of Judah",
+    "dateDisplay": "Biblical monarchy onward",
+    "summary": "Jerusalem became David's royal center and later the site of Solomon's Temple. It remained the capital of Judah until Babylon captured and destroyed the city in the early sixth century BC.",
+    "scriptureReferences": [
+      "2 Samuel 5",
+      "1 Kings 6\u20138",
+      "2 Kings 25"
+    ],
+    "relatedEntryIDs": [
+      "BH007",
+      "BH008",
+      "BH001",
+      "BH024",
+      "BH025"
+    ],
+    "quickFacts": [
+      "David captured Jerusalem and made it his capital in the biblical narrative.",
+      "Solomon's Temple stood in Jerusalem.",
+      "Babylon destroyed Jerusalem during Zedekiah's reign."
+    ],
+    "location": "Jerusalem",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Samuel 5",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "1 Kings 6\u20138",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Kings 25",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH011",
+    "name": "Divided Kingdom",
+    "category": "Places & Events",
+    "subtitle": "Israel and Judah separate",
+    "dateDisplay": "c. late 10th century BC",
+    "summary": "After Solomon's death, the biblical kingdom divided into a northern kingdom called Israel and a southern kingdom called Judah, shaping the political setting of the later kings and prophets.",
+    "scriptureReferences": [
+      "1 Kings 11\u201312",
+      "2 Chronicles 10"
+    ],
+    "relatedEntryIDs": [
+      "BH008",
+      "BH012",
+      "BH013",
+      "BH014"
+    ],
+    "quickFacts": [
+      "Rehoboam ruled Judah.",
+      "Jeroboam I became king of the northern kingdom.",
+      "The division forms the background for many prophetic books."
+    ],
+    "location": "Israel and Judah",
+    "certaintyNote": "Absolute chronology varies by reconstruction.",
+    "sources": [
+      {
+        "title": "1 Kings 11\u201312",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 10",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH012",
+    "name": "Rehoboam",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Judah",
+    "dateDisplay": "c. late 10th century BC",
+    "summary": "Rehoboam, Solomon's son, ruled Judah when the northern tribes broke away and formed a separate kingdom under Jeroboam I.",
+    "scriptureReferences": [
+      "1 Kings 12\u201314",
+      "2 Chronicles 10\u201312"
+    ],
+    "relatedEntryIDs": [
+      "BH008",
+      "BH011",
+      "BH013"
+    ],
+    "quickFacts": [
+      "Rehoboam was Solomon's son.",
+      "The kingdom divided early in his reign.",
+      "Jerusalem remained the capital of Judah."
+    ],
+    "location": "Judah / Jerusalem",
+    "certaintyNote": "Regnal dates vary among chronological systems.",
+    "sources": [
+      {
+        "title": "1 Kings 12\u201314",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 10\u201312",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH013",
+    "name": "Jeroboam I",
+    "category": "Kings & Royalty",
+    "subtitle": "First king of northern Israel",
+    "dateDisplay": "c. late 10th century BC",
+    "summary": "Jeroboam I became the first ruler of the northern kingdom after the split from Rehoboam and established alternative worship centers at Bethel and Dan in the biblical account.",
+    "scriptureReferences": [
+      "1 Kings 11\u201314"
+    ],
+    "relatedEntryIDs": [
+      "BH011",
+      "BH012"
+    ],
+    "quickFacts": [
+      "Jeroboam had previously served Solomon.",
+      "He ruled the northern kingdom of Israel.",
+      "Bethel and Dan became important royal cult centers."
+    ],
+    "location": "Northern Kingdom of Israel",
+    "certaintyNote": "Regnal dates vary among chronological systems.",
+    "sources": [
+      {
+        "title": "1 Kings 11\u201314",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH014",
+    "name": "Ahab",
+    "category": "Kings & Royalty",
+    "subtitle": "King of northern Israel",
+    "dateDisplay": "9th century BC",
+    "summary": "Ahab ruled the northern kingdom during a period of regional conflict and appears prominently in the Elijah narratives. His dynasty was connected by marriage to Jezebel of Sidon.",
+    "scriptureReferences": [
+      "1 Kings 16\u201322"
+    ],
+    "relatedEntryIDs": [
+      "BH015",
+      "BH016",
+      "BH017",
+      "BH018"
+    ],
+    "quickFacts": [
+      "Ahab was the son of Omri.",
+      "Jezebel was his queen.",
+      "Elijah confronted Ahab during his reign."
+    ],
+    "location": "Samaria / Israel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "1 Kings 16\u201322",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH015",
+    "name": "Jezebel",
+    "category": "Kings & Royalty",
+    "subtitle": "Queen of northern Israel",
+    "dateDisplay": "9th century BC",
+    "summary": "Jezebel, a Phoenician princess married to Ahab, is a major royal figure in Kings and a central opponent in the Elijah narratives.",
+    "scriptureReferences": [
+      "1 Kings 16\u201321",
+      "2 Kings 9"
+    ],
+    "relatedEntryIDs": [
+      "BH014",
+      "BH016",
+      "BH018"
+    ],
+    "quickFacts": [
+      "Jezebel was married to Ahab.",
+      "She was associated with Sidon and Phoenician royalty.",
+      "Her story intersects repeatedly with Elijah."
+    ],
+    "location": "Samaria / Israel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "1 Kings 16\u201321",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Kings 9",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH016",
+    "name": "Elijah",
+    "category": "Prophets",
+    "subtitle": "Prophet in northern Israel",
+    "dateDisplay": "9th century BC",
+    "summary": "Elijah confronted Ahab and Jezebel, challenged Baal worship, and became one of the best-known prophets of the northern kingdom.",
+    "scriptureReferences": [
+      "1 Kings 17\u201319",
+      "1 Kings 21",
+      "2 Kings 1\u20132"
+    ],
+    "relatedEntryIDs": [
+      "BH014",
+      "BH015",
+      "BH017",
+      "BH018"
+    ],
+    "quickFacts": [
+      "Elijah confronted the prophets of Baal on Mount Carmel.",
+      "He challenged King Ahab over Naboth's vineyard.",
+      "Elisha became his prophetic successor."
+    ],
+    "location": "Northern Israel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "1 Kings 17\u201319",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "1 Kings 21",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Kings 1\u20132",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH017",
+    "name": "Elisha",
+    "category": "Prophets",
+    "subtitle": "Prophet in northern Israel",
+    "dateDisplay": "9th century BC",
+    "summary": "Elisha succeeded Elijah and appears in narratives involving kings, warfare, healing, famine, and relations between Israel and neighboring Aram.",
+    "scriptureReferences": [
+      "2 Kings 2\u201313"
+    ],
+    "relatedEntryIDs": [
+      "BH016",
+      "BH014"
+    ],
+    "quickFacts": [
+      "Elisha succeeded Elijah.",
+      "His ministry involved both ordinary families and kings.",
+      "His narratives frequently intersect with Israel's wars with Aram."
+    ],
+    "location": "Northern Israel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 2\u201313",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH018",
+    "name": "Mount Carmel Contest",
+    "category": "Places & Events",
+    "subtitle": "Elijah and the prophets of Baal",
+    "dateDisplay": "9th century BC",
+    "summary": "The Mount Carmel narrative presents Elijah challenging prophets of Baal during Ahab's reign in a dramatic contest over whom Israel should worship.",
+    "scriptureReferences": [
+      "1 Kings 18"
+    ],
+    "relatedEntryIDs": [
+      "BH014",
+      "BH015",
+      "BH016"
+    ],
+    "quickFacts": [
+      "The event occurs during Ahab's reign.",
+      "Elijah challenges prophets associated with Baal.",
+      "Mount Carmel lies near Israel's Mediterranean coast."
+    ],
+    "location": "Mount Carmel",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "1 Kings 18",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH019",
+    "name": "Assyrian Empire",
+    "category": "Empires & Kingdoms",
+    "subtitle": "Dominant Near Eastern empire",
+    "dateDisplay": "9th\u20137th centuries BC",
+    "summary": "The Neo-Assyrian Empire became the dominant power of the ancient Near East, conquered the northern kingdom of Israel, and later invaded Judah during Hezekiah's reign.",
+    "scriptureReferences": [
+      "2 Kings 15\u201319",
+      "Isaiah 7\u201310",
+      "Isaiah 36\u201337"
+    ],
+    "relatedEntryIDs": [
+      "BH002",
+      "BH001",
+      "BH020",
+      "BH004",
+      "BH005"
+    ],
+    "quickFacts": [
+      "Assyria conquered Samaria.",
+      "Sennacherib was one of its most famous kings.",
+      "Nineveh became a major Assyrian capital."
+    ],
+    "location": "Mesopotamia / Near East",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 15\u201319",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Isaiah 36\u201337",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH020",
+    "name": "Fall of Samaria",
+    "category": "Battles & Wars",
+    "subtitle": "End of the northern kingdom",
+    "dateDisplay": "722/721 BC",
+    "summary": "Samaria fell to Assyria after a siege, bringing the northern kingdom of Israel to an end and transforming the political world inherited by Judah.",
+    "scriptureReferences": [
+      "2 Kings 17\u201318"
+    ],
+    "relatedEntryIDs": [
+      "BH019",
+      "BH001"
+    ],
+    "quickFacts": [
+      "Samaria was the capital of the northern kingdom.",
+      "Assyria deported inhabitants after the conquest.",
+      "Judah survived as the remaining Israelite kingdom."
+    ],
+    "location": "Samaria",
+    "certaintyNote": "The final conquest spans the transition between the reigns of Shalmaneser V and Sargon II.",
+    "sources": [
+      {
+        "title": "2 Kings 17\u201318",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH021",
+    "name": "Josiah",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Judah",
+    "dateDisplay": "c. 640\u2013609 BC",
+    "summary": "Josiah is remembered for major religious reforms after a book of the law was found in the Temple. He later died after confronting Pharaoh Neco at Megiddo.",
+    "scriptureReferences": [
+      "2 Kings 22\u201323",
+      "2 Chronicles 34\u201335"
+    ],
+    "relatedEntryIDs": [
+      "BH022",
+      "BH023",
+      "BH010"
+    ],
+    "quickFacts": [
+      "Josiah became king while still young.",
+      "His reign included a major reform movement.",
+      "He died after the confrontation at Megiddo."
+    ],
+    "location": "Judah / Jerusalem",
+    "certaintyNote": "Dates follow the commonly used regnal chronology.",
+    "sources": [
+      {
+        "title": "2 Kings 22\u201323",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 34\u201335",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH022",
+    "name": "Jeremiah",
+    "category": "Prophets",
+    "subtitle": "Prophet of Judah",
+    "dateDisplay": "late 7th\u2013early 6th century BC",
+    "summary": "Jeremiah's ministry stretched from Josiah's reign through Judah's final decades and the Babylonian destruction of Jerusalem.",
+    "scriptureReferences": [
+      "Jeremiah",
+      "2 Chronicles 36"
+    ],
+    "relatedEntryIDs": [
+      "BH021",
+      "BH023",
+      "BH024",
+      "BH025",
+      "BH026"
+    ],
+    "quickFacts": [
+      "Jeremiah began his ministry during Josiah's reign.",
+      "He warned repeatedly of Babylonian judgment.",
+      "His ministry continued through Jerusalem's fall."
+    ],
+    "location": "Judah / Jerusalem",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "Jeremiah",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 36",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH023",
+    "name": "Battle of Megiddo",
+    "category": "Battles & Wars",
+    "subtitle": "Josiah confronts Pharaoh Neco",
+    "dateDisplay": "609 BC",
+    "summary": "King Josiah confronted the Egyptian pharaoh Neco near Megiddo and was mortally wounded, a turning point in Judah's final decades.",
+    "scriptureReferences": [
+      "2 Kings 23:28\u201330",
+      "2 Chronicles 35:20\u201327"
+    ],
+    "relatedEntryIDs": [
+      "BH021",
+      "BH022"
+    ],
+    "quickFacts": [
+      "Josiah died after the confrontation.",
+      "The event occurred at Megiddo.",
+      "Judah soon came under increasing pressure from Egypt and Babylon."
+    ],
+    "location": "Megiddo",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 23:28\u201330",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 35:20\u201327",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH024",
+    "name": "Nebuchadnezzar II",
+    "category": "Kings & Royalty",
+    "subtitle": "King of Babylon",
+    "dateDisplay": "605\u2013562 BC",
+    "summary": "Nebuchadnezzar II ruled Babylon during Judah's final years, captured Jerusalem, deported Judeans, and oversaw the destruction of the city and Temple.",
+    "scriptureReferences": [
+      "2 Kings 24\u201325",
+      "2 Chronicles 36",
+      "Jeremiah 39",
+      "Daniel 1\u20134"
+    ],
+    "relatedEntryIDs": [
+      "BH022",
+      "BH025",
+      "BH026",
+      "BH027"
+    ],
+    "quickFacts": [
+      "Nebuchadnezzar ruled the Neo-Babylonian Empire.",
+      "Jerusalem fell during his reign.",
+      "Daniel's opening chapters are set in the Babylonian court."
+    ],
+    "location": "Babylon / Mesopotamia",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 24\u201325",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "2 Chronicles 36",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Daniel 1\u20134",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH025",
+    "name": "Fall of Jerusalem",
+    "category": "Battles & Wars",
+    "subtitle": "Babylon captures Judah's capital",
+    "dateDisplay": "587/586 BC",
+    "summary": "After a prolonged Babylonian siege, Jerusalem was captured, the Temple and major buildings were burned, and the kingdom of Judah came to an end.",
+    "scriptureReferences": [
+      "2 Kings 25",
+      "Jeremiah 39",
+      "Jeremiah 52",
+      "2 Chronicles 36"
+    ],
+    "relatedEntryIDs": [
+      "BH010",
+      "BH022",
+      "BH024",
+      "BH026",
+      "BH027"
+    ],
+    "quickFacts": [
+      "Zedekiah was Judah's final king before the city's fall.",
+      "The Temple was burned.",
+      "Many Judeans were deported to Babylon."
+    ],
+    "location": "Jerusalem",
+    "certaintyNote": "The destruction is commonly dated to 587 or 586 BC depending on chronological reconstruction.",
+    "sources": [
+      {
+        "title": "2 Kings 25",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Jeremiah 39",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Jeremiah 52",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH026",
+    "name": "Babylonian Exile",
+    "category": "Places & Events",
+    "subtitle": "Judean displacement to Babylon",
+    "dateDisplay": "6th century BC",
+    "summary": "Babylon deported groups from Judah in several stages. The exile reshaped Judean political, religious, and literary life and forms the setting for major biblical texts.",
+    "scriptureReferences": [
+      "2 Kings 24\u201325",
+      "Jeremiah 29",
+      "Ezekiel 1",
+      "Daniel 1"
+    ],
+    "relatedEntryIDs": [
+      "BH022",
+      "BH024",
+      "BH025",
+      "BH027"
+    ],
+    "quickFacts": [
+      "Deportations occurred in more than one wave.",
+      "Jeremiah wrote to exiles in Babylon.",
+      "Ezekiel's prophetic ministry began among exiles."
+    ],
+    "location": "Babylonia",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 24\u201325",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Jeremiah 29",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Ezekiel 1",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Daniel 1",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "BH027",
+    "name": "Babylonian Empire",
+    "category": "Empires & Kingdoms",
+    "subtitle": "Neo-Babylonian Empire",
+    "dateDisplay": "626\u2013539 BC",
+    "summary": "The Neo-Babylonian Empire replaced Assyria as the dominant Mesopotamian power and under Nebuchadnezzar II conquered Judah and Jerusalem.",
+    "scriptureReferences": [
+      "2 Kings 24\u201325",
+      "Jeremiah",
+      "Daniel 1\u20135"
+    ],
+    "relatedEntryIDs": [
+      "BH024",
+      "BH025",
+      "BH026"
+    ],
+    "quickFacts": [
+      "Babylon succeeded Assyria as the region's dominant empire.",
+      "Nebuchadnezzar II was its most prominent biblical ruler.",
+      "The empire fell to Persia in 539 BC."
+    ],
+    "location": "Mesopotamia",
+    "certaintyNote": null,
+    "sources": [
+      {
+        "title": "2 Kings 24\u201325",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Jeremiah",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      },
+      {
+        "title": "Daniel 1\u20135",
+        "type": "Scripture",
+        "note": "Primary biblical passage for this entry.",
+        "url": null
+      }
+    ]
+  }
+]
