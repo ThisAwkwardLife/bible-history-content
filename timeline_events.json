@@ -1,0 +1,122 @@
+[
+  {
+    "id": "TL010",
+    "title": "Samuel, Saul, and the rise of monarchy",
+    "subtitle": "Transition from judges to kings",
+    "yearBC": 1050,
+    "category": "Prophets",
+    "linkedEntryID": "BH009"
+  },
+  {
+    "id": "TL011",
+    "title": "Davidic monarchy",
+    "subtitle": "David rules from Jerusalem",
+    "yearBC": 1000,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH007"
+  },
+  {
+    "id": "TL012",
+    "title": "Solomon's reign",
+    "subtitle": "Temple and royal building era",
+    "yearBC": 970,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH008"
+  },
+  {
+    "id": "TL013",
+    "title": "Kingdom divides",
+    "subtitle": "Israel and Judah separate",
+    "yearBC": 930,
+    "category": "Places & Events",
+    "linkedEntryID": "BH011"
+  },
+  {
+    "id": "TL014",
+    "title": "Ahab and Elijah",
+    "subtitle": "Northern kingdom",
+    "yearBC": 860,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH014"
+  },
+  {
+    "id": "TL015",
+    "title": "Fall of Samaria",
+    "subtitle": "Assyria ends northern kingdom",
+    "yearBC": 722,
+    "category": "Battles & Wars",
+    "linkedEntryID": "BH020"
+  },
+  {
+    "id": "TL001",
+    "title": "Isaiah's Ministry",
+    "subtitle": "Prophet of Judah",
+    "yearBC": 740,
+    "category": "Prophets",
+    "linkedEntryID": "BH003"
+  },
+  {
+    "id": "TL002",
+    "title": "Hezekiah Becomes King",
+    "subtitle": "Kingdom of Judah",
+    "yearBC": 715,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH001"
+  },
+  {
+    "id": "TL003",
+    "title": "Sennacherib Rules Assyria",
+    "subtitle": "Neo-Assyrian Empire",
+    "yearBC": 704,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH002"
+  },
+  {
+    "id": "TL004",
+    "title": "Siege of Lachish",
+    "subtitle": "Assyrian campaign in Judah",
+    "yearBC": 701,
+    "category": "Battles & Wars",
+    "linkedEntryID": "BH004"
+  },
+  {
+    "id": "TL016",
+    "title": "Josiah's reign",
+    "subtitle": "Reform in Judah",
+    "yearBC": 640,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH021"
+  },
+  {
+    "id": "TL017",
+    "title": "Battle of Megiddo",
+    "subtitle": "Death of Josiah",
+    "yearBC": 609,
+    "category": "Battles & Wars",
+    "linkedEntryID": "BH023"
+  },
+  {
+    "id": "TL018",
+    "title": "Nebuchadnezzar II",
+    "subtitle": "Babylonian king",
+    "yearBC": 605,
+    "category": "Kings & Royalty",
+    "linkedEntryID": "BH024"
+  },
+  {
+    "id": "TL019",
+    "title": "Fall of Jerusalem",
+    "subtitle": "Babylon destroys city and Temple",
+    "yearBC": 586,
+    "category": "Battles & Wars",
+    "linkedEntryID": "BH025"
+  },
+  {
+    "id": "TL020",
+    "title": "Babylonian Exile",
+    "subtitle": "Judeans in Babylonia",
+    "yearBC": 586,
+    "category": "Places & Events",
+    "linkedEntryID": "BH026"
+  }
+]
