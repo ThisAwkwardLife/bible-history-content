@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1154,6 +1154,44 @@
       "title": "Daniel 7–12",
       "type": "Scripture",
       "note": "Daniel's prophetic visions concerning kingdoms and future events.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH029",
+  "name": "Shadrach, Meshach & Abednego",
+  "category": "People",
+  "subtitle": "Faithful Hebrews in Babylon",
+  "dateDisplay": "6th century BC",
+  "summary": "Shadrach, Meshach, and Abednego were three young men from Judah taken to Babylon. They served in the Babylonian administration but refused King Nebuchadnezzar II's command to worship a golden image. They were thrown into a fiery furnace and miraculously survived.",
+  "scriptureReferences": [
+    "Daniel 1",
+    "Daniel 3"
+  ],
+  "relatedEntryIDs": [
+    "BH028"
+  ],
+  "quickFacts": [
+    "Their Hebrew names were Hananiah, Mishael, and Azariah.",
+    "Their Babylonian names were Shadrach, Meshach, and Abednego.",
+    "They were companions of Daniel.",
+    "They refused to worship Nebuchadnezzar's golden image.",
+    "Daniel 3 describes a fourth figure appearing with them in the furnace."
+  ],
+  "location": "Babylon",
+  "certaintyNote": "Their story is recorded in the book of Daniel and is set during the Neo-Babylonian period.",
+  "sources": [
+    {
+      "title": "Daniel 1",
+      "type": "Scripture",
+      "note": "Introduces Daniel and his three companions in Babylon.",
+      "url": null
+    },
+    {
+      "title": "Daniel 3",
+      "type": "Scripture",
+      "note": "The biblical account of the golden image and fiery furnace.",
       "url": null
     }
   ]
