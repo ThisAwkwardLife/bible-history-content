@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1119,6 +1119,41 @@
       "title": "2 Kings 18–20",
       "type": "Scripture",
       "note": "Isaiah's interaction with King Hezekiah.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH028",
+  "name": "Daniel",
+  "category": "Prophets",
+  "subtitle": "Prophet in Babylon",
+  "dateDisplay": "c. 605–536 BC",
+  "summary": "Daniel was taken from Judah to Babylon and served in the courts of powerful kings while remaining faithful to God. The book of Daniel records his interpretation of dreams, his survival in the lions' den, and visions concerning kingdoms and God's ultimate rule.",
+  "scriptureReferences": [
+    "Daniel 1–6",
+    "Daniel 7–12"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Daniel was taken to Babylon during the reign of King Nebuchadnezzar II.",
+    "He became known for wisdom and the interpretation of dreams.",
+    "Daniel served under both Babylonian and Medo-Persian rulers.",
+    "His story includes the famous account of Daniel in the lions' den."
+  ],
+  "location": "Babylon / Jerusalem",
+  "certaintyNote": "The historical setting is the Babylonian and early Persian periods, though scholars debate the dating and composition of the book of Daniel.",
+  "sources": [
+    {
+      "title": "Daniel 1–6",
+      "type": "Scripture",
+      "note": "Primary biblical narrative for Daniel's life in Babylon.",
+      "url": null
+    },
+    {
+      "title": "Daniel 7–12",
+      "type": "Scripture",
+      "note": "Daniel's prophetic visions concerning kingdoms and future events.",
       "url": null
     }
   ]
