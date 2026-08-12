@@ -1,3 +1,8 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 2,
+  "updatedAt": "2026-08-11T15:00:00Z",
+  "items":
 [
   {
     "id": "BH001",
@@ -1080,3 +1085,4 @@
     ]
   }
 ]
+}
