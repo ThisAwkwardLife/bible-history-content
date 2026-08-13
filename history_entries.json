@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 7,
+  "contentVersion": 8,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1223,6 +1223,53 @@
       "title": "Daniel 5",
       "type": "Scripture",
       "note": "Biblical account of Belshazzar's feast, the writing on the wall, and the fall of his kingdom.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH031",
+  "name": "Cyrus the Great",
+  "category": "Kings & Royalty",
+  "subtitle": "Founder of the Persian Empire",
+  "dateDisplay": "c. 600–530 BC",
+  "summary": "Cyrus the Great founded the Achaemenid Persian Empire and conquered Babylon in 539 BC. The Bible presents Cyrus as the ruler who allowed the Jewish exiles to return to Jerusalem and rebuild the temple. His policies of restoring displaced peoples and local worship helped shape the early Persian period after the Babylonian Exile.",
+  "scriptureReferences": [
+    "2 Chronicles 36:22–23",
+    "Ezra 1:1–4",
+    "Isaiah 44:28",
+    "Isaiah 45:1"
+  ],
+  "relatedEntryIDs": [
+    "BH028",
+    "BH030"
+  ],
+  "quickFacts": [
+    "Cyrus founded the Achaemenid Persian Empire.",
+    "His forces captured Babylon in 539 BC.",
+    "The Bible credits Cyrus with permitting the Jewish exiles to return to Jerusalem.",
+    "Isaiah refers to Cyrus as God's anointed ruler for a specific purpose.",
+    "The Cyrus Cylinder is an important ancient artifact from his reign."
+  ],
+  "location": "Persia / Babylon",
+  "certaintyNote": "Cyrus the Great is exceptionally well attested in ancient Persian, Babylonian, and Greek sources. His conquest of Babylon and policies toward subject peoples are independently documented outside the Bible.",
+  "sources": [
+    {
+      "title": "Ezra 1:1–4",
+      "type": "Scripture",
+      "note": "Records Cyrus's decree allowing the return to Jerusalem and rebuilding of the temple.",
+      "url": null
+    },
+    {
+      "title": "Isaiah 44:28–45:1",
+      "type": "Scripture",
+      "note": "Names Cyrus in connection with the restoration of Jerusalem.",
+      "url": null
+    },
+    {
+      "title": "Cyrus Cylinder",
+      "type": "Archaeology",
+      "note": "Babylonian royal inscription associated with Cyrus's conquest and restoration policies.",
       "url": null
     }
   ]
