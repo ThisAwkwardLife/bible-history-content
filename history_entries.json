@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 6,
+  "contentVersion": 7,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1192,6 +1192,37 @@
       "title": "Daniel 3",
       "type": "Scripture",
       "note": "The biblical account of the golden image and fiery furnace.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH030",
+  "name": "Belshazzar",
+  "category": "Kings & Royalty",
+  "subtitle": "King at the Fall of Babylon",
+  "dateDisplay": "died 539 BC",
+  "summary": "Belshazzar was a Babylonian royal who ruled in Babylon as co-regent while his father Nabonidus was away. In Daniel 5, Belshazzar held a great feast and used sacred vessels taken from the temple in Jerusalem. During the feast, mysterious writing appeared on the wall. Daniel interpreted the message as God's judgment on Belshazzar and his kingdom. That night Belshazzar was killed as Babylon fell.",
+  "scriptureReferences": [
+    "Daniel 5"
+  ],
+  "relatedEntryIDs": [
+    "BH028"
+  ],
+  "quickFacts": [
+    "Belshazzar was the son of Nabonidus, the last king of the Neo-Babylonian Empire.",
+    "He exercised royal authority in Babylon while Nabonidus was absent.",
+    "Daniel 5 records the famous writing on the wall during Belshazzar's feast.",
+    "Daniel interpreted the message as announcing the end of Belshazzar's kingdom.",
+    "Babylon fell to the Persian forces of Cyrus the Great in 539 BC."
+  ],
+  "location": "Babylon",
+  "certaintyNote": "Belshazzar is independently known from Babylonian records. Ancient evidence identifies him as the son of King Nabonidus and shows that he exercised significant authority in Babylon, helping provide historical context for the account in Daniel 5.",
+  "sources": [
+    {
+      "title": "Daniel 5",
+      "type": "Scripture",
+      "note": "Biblical account of Belshazzar's feast, the writing on the wall, and the fall of his kingdom.",
       "url": null
     }
   ]
