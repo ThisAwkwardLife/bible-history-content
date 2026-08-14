@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 9,
+  "contentVersion": 10,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1317,6 +1317,46 @@
       "title": "Ezra 1:1–4",
       "type": "Scripture",
       "note": "Records Cyrus's decree permitting the return to Jerusalem and rebuilding of the temple.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH033",
+  "name": "The Return from Exile",
+  "category": "Places & Events",
+  "subtitle": "Judah Returns from Babylonian Exile",
+  "dateDisplay": "Beginning c. 538 BC",
+  "summary": "After Cyrus the Great conquered Babylon, Persian policy allowed groups of displaced peoples to return to their homelands. According to the biblical account, Cyrus authorized Jewish exiles to return to Jerusalem and rebuild the temple. This marked the beginning of a new period in Judah's history after decades of Babylonian exile.",
+  "scriptureReferences": [
+    "2 Chronicles 36:22–23",
+    "Ezra 1:1–11",
+    "Ezra 2"
+  ],
+  "relatedEntryIDs": [
+    "BH031",
+    "BH032"
+  ],
+  "quickFacts": [
+    "The return began after Cyrus the Great conquered Babylon.",
+    "Cyrus authorized the rebuilding of the temple in Jerusalem.",
+    "Temple vessels taken by Nebuchadnezzar were returned.",
+    "Zerubbabel became an important leader of the returning community.",
+    "The return from exile occurred in stages rather than as one single migration."
+  ],
+  "location": "Babylon / Jerusalem / Judah",
+  "certaintyNote": "The Persian conquest of Babylon and Cyrus's policies toward subject peoples are well established historically. The biblical books of Chronicles and Ezra provide the primary accounts of the Jewish return to Judah and the rebuilding of the temple.",
+  "sources": [
+    {
+      "title": "Ezra 1:1–11",
+      "type": "Scripture",
+      "note": "Records Cyrus's decree and preparations for the return to Jerusalem.",
+      "url": null
+    },
+    {
+      "title": "2 Chronicles 36:22–23",
+      "type": "Scripture",
+      "note": "Describes Cyrus's proclamation concerning Jerusalem and the temple.",
       "url": null
     }
   ]
