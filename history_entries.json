@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 8,
+  "contentVersion": 9,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1270,6 +1270,53 @@
       "title": "Cyrus Cylinder",
       "type": "Archaeology",
       "note": "Babylonian royal inscription associated with Cyrus's conquest and restoration policies.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH032",
+  "name": "The Fall of Babylon",
+  "category": "Places & Events",
+  "subtitle": "The Persian Conquest of Babylon",
+  "dateDisplay": "539 BC",
+  "summary": "In 539 BC, Babylon fell to the forces of Cyrus the Great, bringing the Neo-Babylonian Empire to an end and beginning Persian rule over the region. The event forms the historical setting for the end of Belshazzar's rule in Daniel 5 and helped set the stage for Jewish exiles to return to Jerusalem under Persian authority.",
+  "scriptureReferences": [
+    "Daniel 5",
+    "2 Chronicles 36:20–23",
+    "Ezra 1:1–4"
+  ],
+  "relatedEntryIDs": [
+    "BH028",
+    "BH030",
+    "BH031"
+  ],
+  "quickFacts": [
+    "Babylon fell to Persian forces in 539 BC.",
+    "Cyrus the Great became ruler of the Babylonian Empire's territories.",
+    "Daniel 5 places the death of Belshazzar on the night his kingdom fell.",
+    "Babylonian records also document the Persian capture of Babylon.",
+    "Persian rule later allowed Jewish exiles to return to Jerusalem."
+  ],
+  "location": "Babylon",
+  "certaintyNote": "The Persian conquest of Babylon in 539 BC is firmly established by ancient historical records. Biblical and Babylonian sources describe the transition from Babylonian to Persian rule from different perspectives.",
+  "sources": [
+    {
+      "title": "Daniel 5",
+      "type": "Scripture",
+      "note": "Biblical account connecting Belshazzar's final night with the fall of his kingdom.",
+      "url": null
+    },
+    {
+      "title": "Nabonidus Chronicle",
+      "type": "Ancient Record",
+      "note": "Babylonian chronicle describing events surrounding Cyrus's conquest of Babylon in 539 BC.",
+      "url": null
+    },
+    {
+      "title": "Ezra 1:1–4",
+      "type": "Scripture",
+      "note": "Records Cyrus's decree permitting the return to Jerusalem and rebuilding of the temple.",
       "url": null
     }
   ]
