@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 11,
+  "contentVersion": 12,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1397,6 +1397,55 @@
       "title": "Ezra 1:1–4",
       "type": "Scripture",
       "note": "Biblical account of Cyrus permitting the rebuilding of the temple in Jerusalem.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH035",
+  "name": "Zerubbabel",
+  "category": "Kings & Royalty",
+  "subtitle": "Governor of Judah After the Exile",
+  "dateDisplay": "6th century BC",
+  "summary": "Zerubbabel was a descendant of King David who became governor of Judah during the early Persian period. He led a group of Jewish exiles back to Jerusalem and played a major role in rebuilding the temple after the Babylonian Exile. The prophets Haggai and Zechariah encouraged Zerubbabel and the returned community during the rebuilding effort.",
+  "scriptureReferences": [
+    "Ezra 2:1–2",
+    "Ezra 3:8–13",
+    "Ezra 5:1–2",
+    "Haggai 1:1",
+    "Zechariah 4:6–10"
+  ],
+  "relatedEntryIDs": [
+    "BH031",
+    "BH033",
+    "BH034"
+  ],
+  "quickFacts": [
+    "Zerubbabel was a descendant of King David.",
+    "He served as governor of Judah under Persian rule.",
+    "He helped lead Jewish exiles back to Jerusalem.",
+    "He played a central role in rebuilding the temple.",
+    "The prophets Haggai and Zechariah encouraged him during the rebuilding effort."
+  ],
+  "location": "Jerusalem / Judah",
+  "certaintyNote": "Zerubbabel is described in several biblical books as a leader of the returned Jewish community during the Persian period. His role as governor fits the political structure of Judah under Persian imperial rule.",
+  "sources": [
+    {
+      "title": "Ezra 3:8–13",
+      "type": "Scripture",
+      "note": "Describes Zerubbabel and the beginning of work on the rebuilt temple.",
+      "url": null
+    },
+    {
+      "title": "Haggai 1:1",
+      "type": "Scripture",
+      "note": "Identifies Zerubbabel as governor of Judah during the reign of Darius.",
+      "url": null
+    },
+    {
+      "title": "Zechariah 4:6–10",
+      "type": "Scripture",
+      "note": "Connects Zerubbabel with the completion of the temple.",
       "url": null
     }
   ]
