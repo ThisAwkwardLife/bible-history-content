@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 12,
+  "contentVersion": 13,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1446,6 +1446,54 @@
       "title": "Zechariah 4:6–10",
       "type": "Scripture",
       "note": "Connects Zerubbabel with the completion of the temple.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH036",
+  "name": "The Second Temple",
+  "category": "Places & Events",
+  "subtitle": "The Rebuilt Temple in Jerusalem",
+  "dateDisplay": "Completed c. 516 BC",
+  "summary": "The Second Temple was built in Jerusalem after the Jewish people returned from the Babylonian Exile. Construction began under the leadership of Zerubbabel and Joshua the high priest but faced opposition and delays. Encouraged by the prophets Haggai and Zechariah, the returned community resumed the work, and the temple was completed during the reign of the Persian king Darius I.",
+  "scriptureReferences": [
+    "Ezra 3:8–13",
+    "Ezra 5:1–2",
+    "Ezra 6:13–18",
+    "Haggai 1:1–15",
+    "Zechariah 4:6–10"
+  ],
+  "relatedEntryIDs": [
+    "BH033",
+    "BH035"
+  ],
+  "quickFacts": [
+    "The Second Temple replaced Solomon's Temple, which had been destroyed by the Babylonians.",
+    "Zerubbabel and Joshua the high priest were major leaders during the rebuilding.",
+    "The prophets Haggai and Zechariah encouraged the people to complete the work.",
+    "The temple was completed around 516 BC during the reign of Darius I.",
+    "Centuries later, Herod the Great dramatically expanded and renovated the temple complex."
+  ],
+  "location": "Jerusalem",
+  "certaintyNote": "The rebuilding of the temple belongs to the well-established Persian period of Judah's history. The biblical books of Ezra, Haggai, and Zechariah provide the principal accounts of its reconstruction.",
+  "sources": [
+    {
+      "title": "Ezra 6:13–18",
+      "type": "Scripture",
+      "note": "Describes the completion and dedication of the rebuilt temple.",
+      "url": null
+    },
+    {
+      "title": "Haggai 1",
+      "type": "Scripture",
+      "note": "Records Haggai's call for the returned community to resume rebuilding the temple.",
+      "url": null
+    },
+    {
+      "title": "Zechariah 4:6–10",
+      "type": "Scripture",
+      "note": "Encourages Zerubbabel concerning the completion of the temple.",
       "url": null
     }
   ]
