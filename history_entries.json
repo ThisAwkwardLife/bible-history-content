@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 10,
+  "contentVersion": 11,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1357,6 +1357,46 @@
       "title": "2 Chronicles 36:22–23",
       "type": "Scripture",
       "note": "Describes Cyrus's proclamation concerning Jerusalem and the temple.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH034",
+  "name": "The Cyrus Cylinder",
+  "category": "Archaeology & Artifacts",
+  "subtitle": "Ancient Record from the Reign of Cyrus",
+  "dateDisplay": "c. 539–538 BC",
+  "summary": "The Cyrus Cylinder is an ancient clay cylinder inscribed in Babylonian cuneiform after Cyrus the Great conquered Babylon in 539 BC. The inscription describes Cyrus restoring temples and returning displaced religious images and peoples. Although it does not specifically mention the Jewish people or Jerusalem, it provides important historical context for the type of restoration policy described in the biblical book of Ezra.",
+  "scriptureReferences": [
+    "2 Chronicles 36:22–23",
+    "Ezra 1:1–4"
+  ],
+  "relatedEntryIDs": [
+    "BH031",
+    "BH032",
+    "BH033"
+  ],
+  "quickFacts": [
+    "The Cyrus Cylinder was discovered in Babylon in 1879.",
+    "It is written in Babylonian cuneiform on a clay cylinder.",
+    "The inscription was produced after Cyrus conquered Babylon in 539 BC.",
+    "It describes Cyrus restoring temples and returning displaced peoples and religious objects.",
+    "The cylinder does not specifically mention Jerusalem or the Jewish exiles."
+  ],
+  "location": "Babylon",
+  "certaintyNote": "The Cyrus Cylinder is a genuine ancient inscription from the reign of Cyrus the Great. It should not be treated as a copy of the biblical decree in Ezra, but it provides valuable historical evidence for Persian restoration policies consistent with the broader setting described in the Bible.",
+  "sources": [
+    {
+      "title": "Cyrus Cylinder",
+      "type": "Archaeology",
+      "note": "Ancient Babylonian inscription issued following Cyrus's conquest of Babylon.",
+      "url": null
+    },
+    {
+      "title": "Ezra 1:1–4",
+      "type": "Scripture",
+      "note": "Biblical account of Cyrus permitting the rebuilding of the temple in Jerusalem.",
       "url": null
     }
   ]
