@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 13,
+  "contentVersion": 14,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1494,6 +1494,53 @@
       "title": "Zechariah 4:6–10",
       "type": "Scripture",
       "note": "Encourages Zerubbabel concerning the completion of the temple.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH037",
+  "name": "Haggai",
+  "category": "Prophets",
+  "subtitle": "Prophet of the Temple Rebuilding",
+  "dateDisplay": "c. 520 BC",
+  "summary": "Haggai was a prophet who ministered in Judah after the Babylonian Exile. He challenged the returned Jewish community to make rebuilding the temple in Jerusalem a priority. His messages encouraged Zerubbabel, Joshua the high priest, and the people to resume construction of the Second Temple during the reign of the Persian king Darius I.",
+  "scriptureReferences": [
+    "Haggai 1:1–15",
+    "Haggai 2:1–23",
+    "Ezra 5:1–2",
+    "Ezra 6:14"
+  ],
+  "relatedEntryIDs": [
+    "BH035",
+    "BH036"
+  ],
+  "quickFacts": [
+    "Haggai prophesied after the Jewish return from Babylonian Exile.",
+    "His recorded ministry took place during the reign of Darius I.",
+    "He urged the people to resume rebuilding the temple.",
+    "Haggai worked during the same period as the prophet Zechariah.",
+    "His messages specifically encouraged Zerubbabel, governor of Judah, and Joshua the high priest."
+  ],
+  "location": "Jerusalem / Judah",
+  "certaintyNote": "The book of Haggai dates several of the prophet's messages precisely to the second year of Darius I, corresponding to 520 BC. This places Haggai within the well-established historical setting of Persian rule over Judah.",
+  "sources": [
+    {
+      "title": "Haggai 1–2",
+      "type": "Scripture",
+      "note": "Primary biblical source for Haggai's prophetic ministry and his encouragement to rebuild the temple.",
+      "url": null
+    },
+    {
+      "title": "Ezra 5:1–2",
+      "type": "Scripture",
+      "note": "Describes Haggai and Zechariah encouraging the rebuilding effort in Jerusalem.",
+      "url": null
+    },
+    {
+      "title": "Ezra 6:14",
+      "type": "Scripture",
+      "note": "Connects the successful rebuilding of the temple with the prophetic ministry of Haggai and Zechariah.",
       "url": null
     }
   ]
