@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 18,
+  "contentVersion": 19,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1724,6 +1724,55 @@
       "title": "Nehemiah 13",
       "type": "Scripture",
       "note": "Records reforms carried out during Nehemiah's governorship.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH042",
+  "name": "Esther",
+  "category": "Kings & Royalty",
+  "subtitle": "Jewish Queen of Persia",
+  "dateDisplay": "c. 5th century BC",
+  "summary": "Esther was a Jewish woman who became queen in the Persian Empire. When a plot threatened the destruction of the Jewish people, Esther risked her life by approaching the king and revealing both her identity and the danger facing her people. Her courage became central to the story behind the Jewish festival of Purim.",
+  "scriptureReferences": [
+    "Esther 2:5–18",
+    "Esther 3:8–15",
+    "Esther 4:10–17",
+    "Esther 5:1–8",
+    "Esther 7:1–10",
+    "Esther 9:20–28"
+  ],
+  "relatedEntryIDs": [
+    "BH040",
+    "BH041"
+  ],
+  "quickFacts": [
+    "Esther was a Jewish woman living within the Persian Empire.",
+    "Her Hebrew name was Hadassah.",
+    "She was raised by her cousin Mordecai.",
+    "Esther became queen and used her position to intervene when the Jewish people were threatened.",
+    "The events recorded in Esther are associated with the origin of the festival of Purim."
+  ],
+  "location": "Susa / Persian Empire",
+  "certaintyNote": "The book of Esther places its events in the Persian royal court at Susa. The king called Ahasuerus in the biblical text is traditionally identified with Xerxes I, who reigned from 486 to 465 BC.",
+  "sources": [
+    {
+      "title": "Esther 1–10",
+      "type": "Scripture",
+      "note": "Primary biblical account of Esther, Mordecai, the Persian court, and the deliverance of the Jewish people.",
+      "url": null
+    },
+    {
+      "title": "Esther 4:13–16",
+      "type": "Scripture",
+      "note": "Records Mordecai's appeal to Esther and her decision to approach the king despite the personal risk.",
+      "url": null
+    },
+    {
+      "title": "Esther 9:20–28",
+      "type": "Scripture",
+      "note": "Connects the events of Esther with the establishment of the festival of Purim.",
       "url": null
     }
   ]
