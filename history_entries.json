@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 22,
+  "contentVersion": 23,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1919,6 +1919,52 @@
       "type": "Scripture",
       "note": "Describes the king's response to Esther's revelation of Haman's plot.",
       "url": null
+    }
+  ]
+},
+  {
+  "id": "BH046",
+  "name": "Job",
+  "category": "Places & Events",
+  "subtitle": "Righteous Sufferer of the Land of Uz",
+  "dateDisplay": "Date uncertain",
+  "summary": "Job is the central figure of the biblical book that bears his name. Described as a righteous and prosperous man living in the land of Uz, Job experiences the loss of his wealth, children, and health. His story explores suffering, faithfulness, human wisdom, and the limits of human understanding before God.",
+  "scriptureReferences": [
+    "Job 1:1–22",
+    "Job 2:1–13",
+    "Job 19:23–27",
+    "Job 38:1–18",
+    "Job 42:1–17",
+    "Ezekiel 14:14"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Job is described as blameless, upright, and one who feared God.",
+    "He lived in a place called the land of Uz.",
+    "Job's friends Eliphaz, Bildad, and Zophar came to mourn and speak with him.",
+    "Much of the book consists of poetic discussions about suffering, justice, and wisdom.",
+    "Job is also named in Ezekiel as an example of righteousness."
+  ],
+  "location": "Land of Uz / Ancient Near East",
+  "certaintyNote": "The historical period and precise location of Job are uncertain. The book places Job outside Israel in the land of Uz, while scholars continue to debate when the book reached its literary form.",
+  "sources": [
+    {
+      "title": "Job 1–42",
+      "type": "Scripture",
+      "note": "Primary biblical account of Job, his suffering, his discussions with his friends, God's response, and Job's restoration.",
+      "url": null
+    },
+    {
+      "title": "Ezekiel 14:14, 20",
+      "type": "Scripture",
+      "note": "Names Job alongside Noah and Daniel as examples of righteousness.",
+      "url": null
+    },
+    {
+      "title": "The Historical Context of the Book of Job — Yale University Press",
+      "type": "Historical / Academic",
+      "note": "Academic discussion of the language, historical context, and ancient Near Eastern background of the Book of Job.",
+      "url": "https://yalebooks.yale.edu/2020/08/05/the-historical-context-of-the-book-of-job/"
     }
   ]
 }
