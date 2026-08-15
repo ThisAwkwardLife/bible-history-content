@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 15,
+  "contentVersion": 16,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1591,7 +1591,53 @@
       "url": null
     }
   ]
-}
-  
+},
+ {
+  "id": "BH039",
+  "name": "Malachi",
+  "category": "Prophets",
+  "subtitle": "Prophet of Covenant Faithfulness",
+  "dateDisplay": "c. 5th century BC",
+  "summary": "Malachi was a prophet who addressed the people of Judah after the return from Babylonian exile and the rebuilding of the Temple. He confronted careless worship, unfaithfulness, and spiritual complacency while calling the people back to covenant faithfulness.",
+  "scriptureReferences": [
+    "Malachi 1:1–14",
+    "Malachi 2:10–17",
+    "Malachi 3:1–12",
+    "Malachi 4:1–6"
+  ],
+  "relatedEntryIDs": [
+    "BH037",
+    "BH038"
+  ],
+  "quickFacts": [
+    "Malachi ministered during the post-exilic period.",
+    "His message addressed problems with worship and the priesthood.",
+    "He called the people to renewed faithfulness to God's covenant.",
+    "Malachi spoke of a coming messenger who would prepare the way.",
+    "Malachi is the final book of the Old Testament in the Christian biblical order."
+  ],
+  "location": "Jerusalem / Judah",
+  "certaintyNote": "The book of Malachi does not name a reigning king, so the precise date of the prophet's ministry is uncertain. It is generally placed during the Persian period after the rebuilding of the Temple.",
+  "sources": [
+    {
+      "title": "Malachi 1–4",
+      "type": "Scripture",
+      "note": "Primary biblical source for Malachi's prophetic message and ministry.",
+      "url": null
+    },
+    {
+      "title": "Malachi 3:1–4",
+      "type": "Scripture",
+      "note": "Describes the coming messenger and the Lord's coming to his Temple.",
+      "url": null
+    },
+    {
+      "title": "Malachi 4:4–6",
+      "type": "Scripture",
+      "note": "Concludes the book with a call to remember the law of Moses and a promise concerning Elijah.",
+      "url": null
+    }
+  ]
+} 
 ]
 }
