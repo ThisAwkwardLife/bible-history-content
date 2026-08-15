@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 14,
+  "contentVersion": 15,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1542,6 +1542,40 @@
       "type": "Scripture",
       "note": "Connects the successful rebuilding of the temple with the prophetic ministry of Haggai and Zechariah.",
       "url": null
+    }
+  ]
+},
+  {
+  "id": "BH038",
+  "title": "Zechariah",
+  "category": "Prophets",
+  "dateRange": "c. 520–518 BC",
+  "summary": "Zechariah was a prophet who ministered to the Jewish people after their return from Babylonian exile. Alongside Haggai, he encouraged the people to rebuild the Temple in Jerusalem and called them to renewed faithfulness to God.",
+  "whyItMatters": "Zechariah connects the restoration of Jerusalem with Israel's hope for the future. His prophecies include powerful visions of restoration and passages that Christians have long understood as pointing forward to the Messiah.",
+  "keyFacts": [
+    "Zechariah began his prophetic ministry during the reign of Darius I of Persia.",
+    "He ministered during the same general period as the prophet Haggai.",
+    "His messages encouraged the rebuilding of the Temple in Jerusalem.",
+    "The book of Zechariah contains a series of symbolic night visions.",
+    "Zechariah contains important passages associated with later messianic expectations."
+  ],
+  "scriptureReferences": [
+    "Ezra 5:1",
+    "Ezra 6:14",
+    "Zechariah 1:1-6",
+    "Zechariah 4:6-10",
+    "Zechariah 9:9"
+  ],
+  "sources": [
+    {
+      "title": "The Book of Zechariah",
+      "type": "Biblical Text",
+      "note": "Primary biblical source for Zechariah's prophetic ministry and visions."
+    },
+    {
+      "title": "The Book of Ezra",
+      "type": "Biblical Text",
+      "note": "Places Zechariah alongside Haggai during the rebuilding of the Temple."
     }
   ]
 }
