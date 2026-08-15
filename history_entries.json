@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 17,
+  "contentVersion": 18,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1680,6 +1680,53 @@
       "url": null
     }
   ]
-} 
+},
+  {
+  "id": "BH041",
+  "name": "Nehemiah",
+  "category": "Places & Events",
+  "subtitle": "Governor and Rebuilder of Jerusalem",
+  "dateDisplay": "c. 445–433 BC",
+  "summary": "Nehemiah was a Jewish official in the Persian court who received permission from King Artaxerxes to return to Jerusalem. As governor of Judah, he led the rebuilding of Jerusalem's walls, organized the city's defenses, and worked with Ezra to encourage spiritual and social reform among the people.",
+  "scriptureReferences": [
+    "Nehemiah 1:1–11",
+    "Nehemiah 2:1–20",
+    "Nehemiah 4:1–23",
+    "Nehemiah 6:15–16",
+    "Nehemiah 8:1–12"
+  ],
+  "relatedEntryIDs": [
+    "BH040"
+  ],
+  "quickFacts": [
+    "Nehemiah served as cupbearer to the Persian king Artaxerxes.",
+    "He received permission to travel to Jerusalem and rebuild its walls.",
+    "The rebuilding effort faced opposition from surrounding leaders.",
+    "Jerusalem's wall was completed in fifty-two days according to the biblical account.",
+    "Nehemiah worked alongside Ezra during a period of religious and civic renewal."
+  ],
+  "location": "Susa / Jerusalem",
+  "certaintyNote": "Nehemiah's governorship is placed during the reign of Artaxerxes I of Persia. The biblical account dates his journey to Jerusalem to the twentieth year of Artaxerxes.",
+  "sources": [
+    {
+      "title": "Nehemiah 1–7",
+      "type": "Scripture",
+      "note": "Primary biblical account of Nehemiah's journey to Jerusalem and the rebuilding of the city's walls.",
+      "url": null
+    },
+    {
+      "title": "Nehemiah 8",
+      "type": "Scripture",
+      "note": "Describes the public reading of the Law during the period of Ezra and Nehemiah.",
+      "url": null
+    },
+    {
+      "title": "Nehemiah 13",
+      "type": "Scripture",
+      "note": "Records reforms carried out during Nehemiah's governorship.",
+      "url": null
+    }
+  ]
+}
 ]
 }
