@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 21,
+  "contentVersion": 22,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1869,6 +1869,55 @@
       "title": "Esther 7:1–10",
       "type": "Scripture",
       "note": "Records Esther exposing Haman's plot and Haman's subsequent execution.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH045",
+  "name": "Xerxes I (Ahasuerus)",
+  "category": "Kings & Royalty",
+  "subtitle": "Persian King in the Story of Esther",
+  "dateDisplay": "reigned 486–465 BC",
+  "summary": "Xerxes I was a king of the Persian Empire and is traditionally identified with Ahasuerus, the ruler described in the book of Esther. The biblical account places Esther, Mordecai, and Haman within his royal court at Susa, where a threat against the Jewish people developed into a dramatic struggle for survival.",
+  "scriptureReferences": [
+    "Esther 1:1–9",
+    "Esther 2:16–18",
+    "Esther 3:8–15",
+    "Esther 7:1–10",
+    "Esther 8:1–17"
+  ],
+  "relatedEntryIDs": [
+    "BH042",
+    "BH043",
+    "BH044"
+  ],
+  "quickFacts": [
+    "Xerxes I ruled the Persian Empire from 486 to 465 BC.",
+    "He was the son and successor of Darius I.",
+    "The Ahasuerus of Esther is traditionally identified with Xerxes I.",
+    "Susa was one of the major royal centers of the Persian Empire.",
+    "Xerxes also led a major Persian invasion of Greece in 480 BC."
+  ],
+  "location": "Susa / Persian Empire",
+  "certaintyNote": "The identification of the biblical Ahasuerus with Xerxes I is widely accepted, although the book of Esther uses the Hebrew royal name Ahasuerus rather than the Greek form Xerxes.",
+  "sources": [
+    {
+      "title": "Esther 1–10",
+      "type": "Scripture",
+      "note": "Primary biblical account of Ahasuerus and the events involving Esther, Mordecai, and Haman.",
+      "url": null
+    },
+    {
+      "title": "Esther 1:1–9",
+      "type": "Scripture",
+      "note": "Introduces Ahasuerus as ruler of a vast Persian realm and describes the royal court at Susa.",
+      "url": null
+    },
+    {
+      "title": "Esther 7–8",
+      "type": "Scripture",
+      "note": "Describes the king's response to Esther's revelation of Haman's plot.",
       "url": null
     }
   ]
