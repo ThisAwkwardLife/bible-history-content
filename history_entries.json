@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 20,
+  "contentVersion": 21,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1821,6 +1821,54 @@
       "title": "Esther 10:1–3",
       "type": "Scripture",
       "note": "Describes Mordecai's high position and influence within the Persian kingdom.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH044",
+  "name": "Haman",
+  "category": "Places & Events",
+  "subtitle": "Enemy of the Jews in the Persian Court",
+  "dateDisplay": "c. 5th century BC",
+  "summary": "Haman was a high-ranking official in the Persian court during the reign of Ahasuerus. After Mordecai refused to bow before him, Haman became enraged and devised a plan to destroy the Jewish people throughout the empire. His plot was ultimately exposed by Queen Esther, leading to his downfall.",
+  "scriptureReferences": [
+    "Esther 3:1–15",
+    "Esther 4:1–17",
+    "Esther 5:9–14",
+    "Esther 7:1–10",
+    "Esther 8:1–8"
+  ],
+  "relatedEntryIDs": [
+    "BH042",
+    "BH043"
+  ],
+  "quickFacts": [
+    "Haman was promoted to a high position by King Ahasuerus.",
+    "He became furious when Mordecai refused to bow before him.",
+    "Haman cast lots, called pur, to determine a date for his plan against the Jewish people.",
+    "Esther exposed Haman's plot during a banquet with the king.",
+    "Haman was executed on the structure he had prepared for Mordecai."
+  ],
+  "location": "Susa / Persian Empire",
+  "certaintyNote": "Haman is known from the biblical book of Esther, which places him in the Persian royal court during the reign of Ahasuerus, traditionally identified with Xerxes I.",
+  "sources": [
+    {
+      "title": "Esther 3–8",
+      "type": "Scripture",
+      "note": "Primary biblical account of Haman's rise, his plot against the Jewish people, and his downfall.",
+      "url": null
+    },
+    {
+      "title": "Esther 3:7–15",
+      "type": "Scripture",
+      "note": "Describes Haman's use of the pur and the royal decree against the Jewish people.",
+      "url": null
+    },
+    {
+      "title": "Esther 7:1–10",
+      "type": "Scripture",
+      "note": "Records Esther exposing Haman's plot and Haman's subsequent execution.",
       "url": null
     }
   ]
