@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 25,
+  "contentVersion": 26,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2047,6 +2047,50 @@
       "type": "Historical / Academic",
       "note": "Scholarly examination of the patriarchal traditions, historical memory, and the biblical world in which the stories of Abraham, Isaac, and Jacob are preserved.",
       "url": "https://academic.oup.com/book/10720"
+    }
+  ]
+},
+  {
+  "id": "BH049",
+  "name": "Jacob (Israel)",
+  "category": "Places & Events",
+  "subtitle": "Patriarch and Father of the Twelve Tribes",
+  "dateDisplay": "Patriarchal period; precise date uncertain",
+  "summary": "Jacob was the son of Isaac and Rebekah and the grandson of Abraham. According to Genesis, he received the name Israel after wrestling with a mysterious divine figure. Jacob became the father of twelve sons whose descendants were associated with the twelve tribes of Israel, making him a foundational figure in the biblical story of the nation.",
+  "scriptureReferences": [
+    "Genesis 25:19–34",
+    "Genesis 28:10–22",
+    "Genesis 29:1–30",
+    "Genesis 32:22–32",
+    "Genesis 35:9–15",
+    "Genesis 46:1–7",
+    "Genesis 49:1–28"
+  ],
+  "relatedEntryIDs": [
+    "BH047",
+    "BH048"
+  ],
+  "quickFacts": [
+    "Jacob was the younger twin brother of Esau.",
+    "His parents were Isaac and Rebekah.",
+    "Genesis describes Jacob receiving the name Israel.",
+    "Jacob had twelve sons who became associated with the tribes of Israel.",
+    "Jacob's son Joseph rose to power in Egypt, where Jacob's family eventually settled."
+  ],
+  "location": "Canaan / Paddan-Aram / Egypt",
+  "certaintyNote": "Jacob is known primarily through biblical tradition. There is no currently accepted direct archaeological evidence identifying Jacob as an individual, and scholars distinguish between the historical origins of Israel and the later literary form of the Jacob narratives.",
+  "sources": [
+    {
+      "title": "Genesis 25–50",
+      "type": "Scripture",
+      "note": "Primary biblical account of Jacob, his family, his name Israel, and the development of the twelve sons of Jacob.",
+      "url": null
+    },
+    {
+      "title": "Remembering Jacob in the Late Persian/Early Hellenistic Era — Oxford Academic",
+      "type": "Historical / Academic",
+      "note": "Scholarly study examining Jacob as a figure representing Israel and the development and remembrance of Jacob traditions.",
+      "url": "https://academic.oup.com/book/3782/chapter-abstract/145220798"
     }
   ]
 }
