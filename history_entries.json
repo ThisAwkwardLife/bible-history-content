@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 23,
+  "contentVersion": 24,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1965,6 +1965,46 @@
       "type": "Historical / Academic",
       "note": "Academic discussion of the language, historical context, and ancient Near Eastern background of the Book of Job.",
       "url": "https://yalebooks.yale.edu/2020/08/05/the-historical-context-of-the-book-of-job/"
+    }
+  ]
+},
+  {
+  "id": "BH047",
+  "name": "Abraham",
+  "category": "Places & Events",
+  "subtitle": "Patriarch of the Covenant",
+  "dateDisplay": "Patriarchal period; precise date uncertain",
+  "summary": "Abraham is a central patriarch in the biblical story and the father of Isaac. According to Genesis, God called him to leave his homeland and travel to Canaan, promising to make him into a great nation and to bless the nations through him. Abraham's life became foundational to the biblical story of Israel, covenant, faith, and promise.",
+  "scriptureReferences": [
+    "Genesis 11:26–32",
+    "Genesis 12:1–9",
+    "Genesis 15:1–21",
+    "Genesis 17:1–27",
+    "Genesis 21:1–7",
+    "Genesis 22:1–19"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Abraham was originally called Abram.",
+    "Genesis describes his journey from Mesopotamia toward the land of Canaan.",
+    "God's covenant with Abraham included promises concerning descendants and land.",
+    "Abraham and Sarah became the parents of Isaac.",
+    "Abraham is an important figure in Judaism, Christianity, and Islam."
+  ],
+  "location": "Mesopotamia / Canaan",
+  "certaintyNote": "Abraham is known primarily through biblical tradition. There is no currently accepted direct archaeological evidence identifying Abraham as an individual, and the precise historical setting of the patriarchal narratives remains debated among scholars.",
+  "sources": [
+    {
+      "title": "Genesis 11–25",
+      "type": "Scripture",
+      "note": "Primary biblical account of Abraham's life, journeys, family, and covenant.",
+      "url": null
+    },
+    {
+      "title": "Remembering Abraham: Culture, Memory, and History in the Hebrew Bible — Oxford Academic",
+      "type": "Historical / Academic",
+      "note": "Scholarly study of Abraham, biblical memory, and the historical traditions contained in the patriarchal narratives.",
+      "url": "https://academic.oup.com/book/10720"
     }
   ]
 }
