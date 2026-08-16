@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 27,
+  "contentVersion": 28,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2137,6 +2137,49 @@
       "type": "Historical / Academic",
       "note": "Scholarly reference identifying Joseph as the son of Jacob and Rachel and summarizing his place in the biblical tradition.",
       "url": "https://www.bibleodyssey.org/dictionary/joseph/"
+    }
+  ]
+},
+  {
+  "id": "BH051",
+  "name": "Moses",
+  "category": "Prophets",
+  "subtitle": "Prophet and Leader of the Exodus",
+  "dateDisplay": "Exodus period; precise date debated",
+  "summary": "Moses is one of the central figures of the Hebrew Bible. According to Exodus, he was born to an Israelite family in Egypt, raised in Pharaoh's household, and later called by God at the burning bush. Moses confronted Pharaoh, led the Israelites out of Egypt, received the covenant law at Mount Sinai, and guided Israel through the wilderness toward the Promised Land.",
+  "scriptureReferences": [
+    "Exodus 2:1–25",
+    "Exodus 3:1–22",
+    "Exodus 12:29–42",
+    "Exodus 14:1–31",
+    "Exodus 19:1–20:21",
+    "Deuteronomy 34:1–12"
+  ],
+  "relatedEntryIDs": [
+    "BH050"
+  ],
+  "quickFacts": [
+    "Moses was born to Israelite parents during a period of oppression in Egypt.",
+    "He encountered God at the burning bush and was called to return to Egypt.",
+    "Moses and Aaron confronted Pharaoh and demanded that the Israelites be allowed to leave.",
+    "Moses led the Israelites during the Exodus and wilderness period.",
+    "The biblical tradition associates Moses with receiving the law and covenant at Mount Sinai.",
+    "Deuteronomy describes Moses dying before Israel entered the Promised Land."
+  ],
+  "location": "Egypt / Sinai Wilderness / Transjordan",
+  "certaintyNote": "Moses is foundational to biblical tradition, but no currently accepted Egyptian inscription or archaeological discovery independently identifies him. The historical date and archaeological setting of the Exodus remain subjects of significant scholarly debate.",
+  "sources": [
+    {
+      "title": "Exodus 1–40",
+      "type": "Scripture",
+      "note": "Primary biblical account of Moses' early life, calling, confrontation with Pharaoh, the Exodus, and the covenant at Sinai.",
+      "url": null
+    },
+    {
+      "title": "Moses — Bible Odyssey",
+      "type": "Historical / Academic",
+      "note": "Scholarly overview of Moses and his role in biblical tradition.",
+      "url": "https://www.bibleodyssey.org/people/main-articles/moses/"
     }
   ]
 }
