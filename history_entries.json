@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 24,
+  "contentVersion": 25,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2004,6 +2004,48 @@
       "title": "Remembering Abraham: Culture, Memory, and History in the Hebrew Bible — Oxford Academic",
       "type": "Historical / Academic",
       "note": "Scholarly study of Abraham, biblical memory, and the historical traditions contained in the patriarchal narratives.",
+      "url": "https://academic.oup.com/book/10720"
+    }
+  ]
+},
+  {
+  "id": "BH048",
+  "name": "Isaac",
+  "category": "Places & Events",
+  "subtitle": "Son of Promise",
+  "dateDisplay": "Patriarchal period; precise date uncertain",
+  "summary": "Isaac was the son of Abraham and Sarah and an important patriarch in the biblical story. His birth fulfilled God's promise that Abraham and Sarah would have a son. Isaac later became the father of Esau and Jacob, continuing the covenant family through which the biblical story of Israel developed.",
+  "scriptureReferences": [
+    "Genesis 17:15–21",
+    "Genesis 21:1–7",
+    "Genesis 22:1–19",
+    "Genesis 24:1–67",
+    "Genesis 25:19–26",
+    "Genesis 26:1–33"
+  ],
+  "relatedEntryIDs": [
+    "BH047"
+  ],
+  "quickFacts": [
+    "Isaac was the son of Abraham and Sarah.",
+    "His birth was presented as the fulfillment of God's promise to Abraham.",
+    "Abraham was tested when God commanded him to offer Isaac.",
+    "Isaac married Rebekah.",
+    "Isaac and Rebekah became the parents of the twins Esau and Jacob."
+  ],
+  "location": "Canaan / Beersheba / Gerar",
+  "certaintyNote": "Isaac is known primarily through the biblical patriarchal narratives. There is no currently accepted direct archaeological evidence identifying Isaac as an individual, and the precise historical setting of the patriarchs remains debated.",
+  "sources": [
+    {
+      "title": "Genesis 17–35",
+      "type": "Scripture",
+      "note": "Primary biblical material concerning Isaac, his family, and his place in the patriarchal narratives.",
+      "url": null
+    },
+    {
+      "title": "Remembering Abraham: Culture, Memory, and History in the Hebrew Bible — Oxford Academic",
+      "type": "Historical / Academic",
+      "note": "Scholarly examination of the patriarchal traditions, historical memory, and the biblical world in which the stories of Abraham, Isaac, and Jacob are preserved.",
       "url": "https://academic.oup.com/book/10720"
     }
   ]
