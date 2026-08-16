@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 26,
+  "contentVersion": 27,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2091,6 +2091,52 @@
       "type": "Historical / Academic",
       "note": "Scholarly study examining Jacob as a figure representing Israel and the development and remembrance of Jacob traditions.",
       "url": "https://academic.oup.com/book/3782/chapter-abstract/145220798"
+    }
+  ]
+},
+  {
+  "id": "BH050",
+  "name": "Joseph",
+  "category": "Places & Events",
+  "subtitle": "From Slave to Ruler in Egypt",
+  "dateDisplay": "Patriarchal period; precise date uncertain",
+  "summary": "Joseph was a son of Jacob and Rachel whose story forms the final major section of Genesis. Sold into slavery by his brothers, Joseph was taken to Egypt, where he eventually rose to a position of great authority under Pharaoh. During a severe famine, Joseph's position allowed him to provide food for his family and ultimately bring Jacob's household to Egypt.",
+  "scriptureReferences": [
+    "Genesis 30:22–24",
+    "Genesis 37:1–36",
+    "Genesis 39:1–23",
+    "Genesis 41:1–57",
+    "Genesis 45:1–15",
+    "Genesis 46:1–7",
+    "Genesis 50:15–26"
+  ],
+  "relatedEntryIDs": [
+    "BH047",
+    "BH048",
+    "BH049"
+  ],
+  "quickFacts": [
+    "Joseph was a son of Jacob and Rachel.",
+    "His brothers sold him into slavery, and he was taken to Egypt.",
+    "Joseph became known for interpreting dreams.",
+    "Pharaoh elevated Joseph to a position of great authority in Egypt.",
+    "Joseph's family moved to Egypt during a famine.",
+    "His sons Ephraim and Manasseh became associated with tribes of Israel."
+  ],
+  "location": "Canaan / Egypt",
+  "certaintyNote": "Joseph is known primarily from the biblical narrative. No currently accepted Egyptian inscription or archaeological discovery independently identifies the Joseph of Genesis, and the precise Egyptian period in which the story should be placed remains debated.",
+  "sources": [
+    {
+      "title": "Genesis 37–50",
+      "type": "Scripture",
+      "note": "Primary biblical account of Joseph's betrayal, life in Egypt, rise to power, and reunion with his family.",
+      "url": null
+    },
+    {
+      "title": "Joseph — Bible Odyssey",
+      "type": "Historical / Academic",
+      "note": "Scholarly reference identifying Joseph as the son of Jacob and Rachel and summarizing his place in the biblical tradition.",
+      "url": "https://www.bibleodyssey.org/dictionary/joseph/"
     }
   ]
 }
