@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 28,
+  "contentVersion": 29,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2180,6 +2180,49 @@
       "type": "Historical / Academic",
       "note": "Scholarly overview of Moses and his role in biblical tradition.",
       "url": "https://www.bibleodyssey.org/people/main-articles/moses/"
+    }
+  ]
+},
+{
+  "id": "BH052",
+  "name": "Joshua",
+  "category": "Battles & Wars",
+  "subtitle": "Leader of Israel After Moses",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "Joshua was the successor to Moses and the leader who brought the Israelites into the Promised Land. The biblical account describes his leadership in crossing the Jordan River, the fall of Jericho, and Israel's campaigns in Canaan.",
+  "scriptureReferences": [
+    "Numbers 27:18–23",
+    "Deuteronomy 34:9",
+    "Joshua 1:1–9",
+    "Joshua 3:14–17",
+    "Joshua 6:1–27",
+    "Joshua 24:14–15"
+  ],
+  "relatedEntryIDs": [
+    "BH051"
+  ],
+  "quickFacts": [
+    "Joshua served as an assistant to Moses before becoming Israel's leader.",
+    "He was one of the twelve spies sent to explore Canaan.",
+    "Joshua and Caleb were the two spies who urged Israel to trust God and enter the land.",
+    "After Moses' death, Joshua led the Israelites across the Jordan River.",
+    "The Book of Joshua describes the capture of Jericho and other campaigns in Canaan.",
+    "Joshua gathered Israel at Shechem near the end of his life and called the people to remain faithful to God."
+  ],
+  "location": "Canaan / Jordan Valley",
+  "certaintyNote": "Joshua is a central figure in the biblical account of Israel's entry into Canaan. The historical chronology and archaeological interpretation of the conquest period remain debated among scholars.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of Joshua's leadership and Israel's entry into Canaan.",
+      "url": null
+    },
+    {
+      "title": "Joshua — Bible Odyssey",
+      "type": "Historical / Academic",
+      "note": "Scholarly overview of Joshua and the biblical traditions surrounding Israel's settlement in Canaan.",
+      "url": "https://www.bibleodyssey.org/people/main-articles/joshua/"
     }
   ]
 }
