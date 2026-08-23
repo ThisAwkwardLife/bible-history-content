@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 31,
+  "contentVersion": 32,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2313,6 +2313,48 @@
       "title": "Hebrews and James",
       "type": "Scripture",
       "note": "New Testament passages that remember Rahab for her faith and actions.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH055",
+  "name": "Jericho",
+  "category": "Places & Events",
+  "subtitle": "Ancient Walled City at Israel's Entry into Canaan",
+  "dateDisplay": "Late Bronze Age; archaeological dating debated",
+  "summary": "Jericho was an ancient city near the Jordan River and one of the first major locations encountered by the Israelites after crossing into Canaan. In the biblical account, Israel marched around the city for seven days before its walls fell. Rahab and her household were spared during the city's destruction.",
+  "scriptureReferences": [
+    "Joshua 2:1–24",
+    "Joshua 5:13–15",
+    "Joshua 6:1–27",
+    "1 Kings 16:34"
+  ],
+  "relatedEntryIDs": [
+    "BH052",
+    "BH054"
+  ],
+  "quickFacts": [
+    "Jericho is located near the Jordan River and northwest of the Dead Sea.",
+    "It is one of the oldest continuously inhabited settlement areas known in the ancient Near East.",
+    "Rahab lived in Jericho and protected two Israelite spies.",
+    "The Book of Joshua describes Israel marching around Jericho before the city's walls fell.",
+    "Rahab and her household were spared during the destruction of the city.",
+    "Archaeological excavations at Jericho have produced important evidence from several different periods of occupation."
+  ],
+  "location": "Jordan Valley / Canaan",
+  "certaintyNote": "Jericho is a well-attested ancient archaeological site. Scholars continue to debate how the archaeological evidence and destruction layers at the site relate to the chronology of the biblical conquest account.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of Rahab, Israel's approach to Jericho, and the fall of the city.",
+      "url": null
+    },
+    {
+      "title": "Book of 1 Kings",
+      "type": "Scripture",
+      "note": "Records the later rebuilding of Jericho during the reign of Ahab.",
       "url": null
     }
   ]
