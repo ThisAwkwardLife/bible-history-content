@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 30,
+  "contentVersion": 31,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2265,6 +2265,54 @@
       "title": "Book of Joshua",
       "type": "Scripture",
       "note": "Records Caleb's request for Hebron and the granting of his inheritance.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH054",
+  "name": "Rahab",
+  "category": "Places & Events",
+  "subtitle": "Woman of Jericho Who Protected Israel's Spies",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "Rahab was a woman living in Jericho who sheltered two Israelite spies before Israel entered the Promised Land. She expressed faith in the God of Israel and helped the spies escape. When Jericho fell, Rahab and her family were spared and became part of the community of Israel.",
+  "scriptureReferences": [
+    "Joshua 2:1–24",
+    "Joshua 6:22–25",
+    "Matthew 1:5",
+    "Hebrews 11:31",
+    "James 2:25"
+  ],
+  "relatedEntryIDs": [
+    "BH052"
+  ],
+  "quickFacts": [
+    "Rahab lived in the city of Jericho.",
+    "She hid two Israelite spies from the king of Jericho.",
+    "Rahab helped the spies escape through a window in the city wall.",
+    "A scarlet cord was used to identify her household when Israel attacked Jericho.",
+    "Rahab and her family were spared when Jericho fell.",
+    "The New Testament remembers Rahab as an example of faith and identifies her in the genealogy of Jesus."
+  ],
+  "location": "Jericho / Canaan",
+  "certaintyNote": "Rahab is known primarily through the biblical account of Israel's entry into Canaan. Archaeological interpretation of ancient Jericho and the chronology of its destruction remain debated among scholars.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of Rahab, the Israelite spies, and the fall of Jericho.",
+      "url": null
+    },
+    {
+      "title": "Gospel of Matthew",
+      "type": "Scripture",
+      "note": "Includes Rahab in the genealogy of Jesus.",
+      "url": null
+    },
+    {
+      "title": "Hebrews and James",
+      "type": "Scripture",
+      "note": "New Testament passages that remember Rahab for her faith and actions.",
       "url": null
     }
   ]
