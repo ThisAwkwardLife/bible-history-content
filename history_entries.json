@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 29,
+  "contentVersion": 30,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2223,6 +2223,49 @@
       "type": "Historical / Academic",
       "note": "Scholarly overview of Joshua and the biblical traditions surrounding Israel's settlement in Canaan.",
       "url": "https://www.bibleodyssey.org/people/main-articles/joshua/"
+    }
+  ]
+},
+  {
+  "id": "BH053",
+  "name": "Caleb",
+  "category": "Places & Events",
+  "subtitle": "Faithful Spy and Leader of Judah",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "Caleb was one of the twelve spies sent by Moses to explore the land of Canaan. While most of the spies gave a fearful report, Caleb and Joshua urged the Israelites to trust God and enter the land. Decades later, Caleb remained confident in God's promise and received Hebron as his inheritance.",
+  "scriptureReferences": [
+    "Numbers 13:1–30",
+    "Numbers 14:6–24",
+    "Numbers 14:30",
+    "Joshua 14:6–15",
+    "Joshua 15:13–14"
+  ],
+  "relatedEntryIDs": [
+    "BH051",
+    "BH052"
+  ],
+  "quickFacts": [
+    "Caleb was the son of Jephunneh.",
+    "He represented the tribe of Judah when Moses sent twelve spies into Canaan.",
+    "Caleb and Joshua were the only two spies who encouraged Israel to enter the land.",
+    "Caleb was promised an inheritance because he remained faithful to God.",
+    "According to Joshua 14, Caleb was eighty-five years old when he requested the hill country around Hebron.",
+    "Hebron became Caleb's inheritance after Israel entered Canaan."
+  ],
+  "location": "Canaan / Hebron",
+  "certaintyNote": "Caleb is an important figure in the biblical narratives of Israel's wilderness period and settlement in Canaan. The chronology and historical reconstruction of Israel's entry into Canaan remain subjects of scholarly debate.",
+  "sources": [
+    {
+      "title": "Book of Numbers",
+      "type": "Scripture",
+      "note": "Primary biblical account of Caleb as one of the twelve spies and his faithful response to the report about Canaan.",
+      "url": null
+    },
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Records Caleb's request for Hebron and the granting of his inheritance.",
+      "url": null
     }
   ]
 }
