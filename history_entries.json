@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 35,
+  "contentVersion": 36,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2469,6 +2469,49 @@
       "title": "Book of Joshua",
       "type": "Scripture",
       "note": "Primary biblical account of Achan's actions, Israel's defeat at Ai, his confession, and judgment.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH059",
+  "name": "Gibeonites",
+  "category": "Places & Events",
+  "subtitle": "The Canaanites Who Made a Treaty with Israel",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "The Gibeonites were inhabitants of Canaan who feared Israel after hearing about the victories at Jericho and Ai. According to the Book of Joshua, they disguised themselves as travelers from a distant land and persuaded Joshua and Israel's leaders to make a treaty with them. When the deception was discovered, Israel honored the oath but required the Gibeonites to serve the community.",
+  "scriptureReferences": [
+    "Joshua 9:1–27",
+    "Joshua 10:1–15",
+    "2 Samuel 21:1–9"
+  ],
+  "relatedEntryIDs": [
+    "BH052",
+    "BH055",
+    "BH057",
+    "BH058"
+  ],
+  "quickFacts": [
+    "The Gibeonites lived in Canaan and were associated with the city of Gibeon.",
+    "They used worn-out sacks, old wineskins, worn clothing, and old bread to appear as though they had traveled from a distant country.",
+    "Joshua and Israel's leaders made a treaty with them without first seeking guidance from the Lord.",
+    "Three days later, the Israelites discovered that the Gibeonites actually lived nearby.",
+    "Israel honored the treaty because its leaders had sworn an oath.",
+    "The Gibeonites later appealed to Joshua for help when a coalition of Amorite kings attacked them."
+  ],
+  "location": "Gibeon / Canaan",
+  "certaintyNote": "Gibeon is generally identified with the archaeological site of el-Jib, northwest of Jerusalem. Archaeological discoveries confirm that the site was an important ancient settlement, while the precise chronology and historical reconstruction of the events described in Joshua remain debated.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of the Gibeonites' treaty with Israel and the later defense of Gibeon.",
+      "url": null
+    },
+    {
+      "title": "Book of 2 Samuel",
+      "type": "Scripture",
+      "note": "Records a later event involving Israel's covenant obligations toward the Gibeonites.",
       "url": null
     }
   ]
