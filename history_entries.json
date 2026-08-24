@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 37,
+  "contentVersion": 38,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2546,6 +2546,37 @@
       "title": "Book of Joshua",
       "type": "Scripture",
       "note": "Primary biblical account of the defense of Gibeon, the Amorite coalition, and Joshua's command concerning the sun and moon.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH061",
+  "name": "Deborah",
+  "category": "Prophets",
+  "subtitle": "Prophetess and Judge of Israel",
+  "dateDisplay": "Period of the Judges; precise date debated",
+  "summary": "Deborah was a prophetess and judge who led Israel during a time of oppression by the Canaanite king Jabin and his commander Sisera. She summoned Barak and delivered God's command that he lead Israel's forces against Sisera. After Israel's victory, Deborah and Barak celebrated the deliverance in a song recorded in Judges 5.",
+  "scriptureReferences": [
+    "Judges 4:1–24",
+    "Judges 5:1–31"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Deborah is identified in Judges as both a prophetess and a judge.",
+    "She held court beneath the Palm of Deborah in the hill country of Ephraim.",
+    "Deborah summoned Barak and instructed him to gather troops from Naphtali and Zebulun.",
+    "Barak agreed to go into battle if Deborah accompanied him.",
+    "Israel defeated the forces commanded by Sisera near the Kishon River.",
+    "Judges 5 preserves the Song of Deborah, one of the Bible's oldest poetic passages according to many scholars."
+  ],
+  "location": "Hill country of Ephraim / Mount Tabor / Kishon River",
+  "certaintyNote": "Deborah is known primarily from Judges 4 and 5. Scholars often regard the Song of Deborah in Judges 5 as one of the Hebrew Bible's oldest compositions, although its precise date and the historical reconstruction of the events it describes remain debated.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Scripture",
+      "note": "Primary biblical account of Deborah's leadership, the battle against Sisera, and the Song of Deborah.",
       "url": null
     }
   ]
