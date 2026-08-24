@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 34,
+  "contentVersion": 35,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2432,6 +2432,43 @@
       "title": "Book of Joshua",
       "type": "Scripture",
       "note": "Primary biblical account of Israel's defeat and later victory at Ai.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH058",
+  "name": "Achan",
+  "category": "Places & Events",
+  "subtitle": "The Hidden Sin Behind Israel's Defeat at Ai",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "Achan was an Israelite from the tribe of Judah whose actions are connected to Israel's defeat at Ai. According to the Book of Joshua, Achan secretly took items from Jericho that had been devoted to destruction. His disobedience remained hidden until Israel was unexpectedly defeated at Ai. After an investigation, Achan confessed, and the stolen items were discovered beneath his tent.",
+  "scriptureReferences": [
+    "Joshua 6:17–19",
+    "Joshua 7:1–26",
+    "Joshua 22:20"
+  ],
+  "relatedEntryIDs": [
+    "BH052",
+    "BH055",
+    "BH056",
+    "BH057"
+  ],
+  "quickFacts": [
+    "Achan was from the tribe of Judah.",
+    "He took items from Jericho that Israel had been commanded not to keep.",
+    "The items included a valuable garment, silver, and gold.",
+    "Achan hid the stolen items beneath the ground inside his tent.",
+    "Israel's first attack against Ai ended in defeat before Achan's actions were discovered.",
+    "The place associated with Achan's judgment became known as the Valley of Achor."
+  ],
+  "location": "Israelite camp / Valley of Achor",
+  "certaintyNote": "Achan is known from the biblical account in the Book of Joshua. The precise historical location of the Valley of Achor and the chronology of the events surrounding Israel's campaigns in Canaan remain debated.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of Achan's actions, Israel's defeat at Ai, his confession, and judgment.",
       "url": null
     }
   ]
