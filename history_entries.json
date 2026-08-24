@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 36,
+  "contentVersion": 37,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2512,6 +2512,40 @@
       "title": "Book of 2 Samuel",
       "type": "Scripture",
       "note": "Records a later event involving Israel's covenant obligations toward the Gibeonites.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH060",
+  "name": "Battle of Gibeon",
+  "category": "Battles & Wars",
+  "subtitle": "Joshua's Battle and the Day the Sun Stood Still",
+  "dateDisplay": "Late Bronze Age; precise date debated",
+  "summary": "The Battle of Gibeon was fought after a coalition of five Amorite kings attacked Gibeon because its people had made peace with Israel. The Gibeonites appealed to Joshua for help, and Israel marched through the night to defend them. The Book of Joshua describes God throwing the enemy forces into confusion, large hailstones falling upon them, and Joshua calling for the sun and moon to stand still while Israel pursued its enemies.",
+  "scriptureReferences": [
+    "Joshua 10:1–27",
+    "Joshua 10:12–14"
+  ],
+  "relatedEntryIDs": [
+    "BH052",
+    "BH059"
+  ],
+  "quickFacts": [
+    "Five Amorite kings formed a coalition against Gibeon.",
+    "The Gibeonites asked Joshua and Israel to honor their treaty and come to their defense.",
+    "Joshua's army marched through the night before attacking the coalition.",
+    "The biblical account describes large hailstones falling on the fleeing enemy forces.",
+    "Joshua called for the sun to stand still over Gibeon and the moon over the Valley of Aijalon.",
+    "Joshua 10 states that Israel continued pursuing its enemies during an extraordinarily prolonged day."
+  ],
+  "location": "Gibeon / Valley of Aijalon / Canaan",
+  "certaintyNote": "Gibeon is generally identified with the archaeological site of el-Jib. The description of the sun and moon in Joshua 10 has been interpreted in several ways, including as miraculous language, poetic battle imagery, or a description connected with an astronomical phenomenon. The text itself presents the event as extraordinary divine intervention on Israel's behalf.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of the defense of Gibeon, the Amorite coalition, and Joshua's command concerning the sun and moon.",
       "url": null
     }
   ]
