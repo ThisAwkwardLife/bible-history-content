@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 39,
+  "contentVersion": 40,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2617,6 +2617,40 @@
       "title": "Book of Hebrews",
       "type": "Scripture",
       "note": "Hebrews 11 names Barak among figures remembered for faith.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH063",
+  "name": "Sisera",
+  "category": "Battles & Wars",
+  "subtitle": "Canaanite Commander Defeated by Deborah and Barak",
+  "dateDisplay": "Period of the Judges; precise date debated",
+  "summary": "Sisera was the commander of the army of Jabin, a Canaanite king who oppressed Israel during the time of Deborah. His forces included nine hundred iron chariots. After Deborah called Barak to lead Israel against him, Sisera's army was defeated near the Kishon River. Sisera fled on foot and sought refuge in the tent of Jael, where he was killed.",
+  "scriptureReferences": [
+    "Judges 4:1–24",
+    "Judges 5:19–31"
+  ],
+  "relatedEntryIDs": [
+    "BH061",
+    "BH062"
+  ],
+  "quickFacts": [
+    "Sisera commanded the army of the Canaanite king Jabin.",
+    "His forces possessed nine hundred iron chariots according to Judges 4.",
+    "Sisera's army fought Barak's forces near Mount Tabor and the Kishon River.",
+    "After his army was defeated, Sisera abandoned his chariot and fled on foot.",
+    "He sought refuge in the tent of Jael, the wife of Heber the Kenite.",
+    "Jael killed Sisera while he was inside her tent."
+  ],
+  "location": "Harosheth Haggoyim / Mount Tabor / Kishon River",
+  "certaintyNote": "Sisera is known primarily from Judges 4 and the Song of Deborah in Judges 5. The precise identification of some locations associated with the battle and the historical chronology of the events remain debated.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Scripture",
+      "note": "Primary biblical account of Sisera's army, his defeat by Barak's forces, and his death at the hands of Jael.",
       "url": null
     }
   ]
