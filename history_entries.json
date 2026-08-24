@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 38,
+  "contentVersion": 39,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2577,6 +2577,46 @@
       "title": "Book of Judges",
       "type": "Scripture",
       "note": "Primary biblical account of Deborah's leadership, the battle against Sisera, and the Song of Deborah.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH062",
+  "name": "Barak",
+  "category": "Battles & Wars",
+  "subtitle": "Commander Who Fought Beside Deborah",
+  "dateDisplay": "Period of the Judges; precise date debated",
+  "summary": "Barak was an Israelite military leader who fought alongside the prophetess and judge Deborah against the forces of the Canaanite commander Sisera. Deborah instructed Barak to gather troops from the tribes of Naphtali and Zebulun at Mount Tabor. Barak agreed to lead the army if Deborah accompanied him, and Israel ultimately defeated Sisera's forces.",
+  "scriptureReferences": [
+    "Judges 4:4–24",
+    "Judges 5:1–31",
+    "Hebrews 11:32"
+  ],
+  "relatedEntryIDs": [
+    "BH061"
+  ],
+  "quickFacts": [
+    "Barak was the son of Abinoam.",
+    "He came from Kedesh in Naphtali.",
+    "Deborah instructed him to gather ten thousand men from Naphtali and Zebulun.",
+    "Barak asked Deborah to accompany him into the campaign.",
+    "His army gathered at Mount Tabor before confronting Sisera's forces.",
+    "Barak is named among examples of faith in Hebrews 11."
+  ],
+  "location": "Kedesh / Mount Tabor / Kishon River",
+  "certaintyNote": "Barak is known primarily from Judges 4 and the Song of Deborah in Judges 5. The biblical account places his campaign within the period of the Judges, while the precise chronology and historical reconstruction of the battle remain debated.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Scripture",
+      "note": "Primary biblical account of Barak's campaign alongside Deborah against Sisera.",
+      "url": null
+    },
+    {
+      "title": "Book of Hebrews",
+      "type": "Scripture",
+      "note": "Hebrews 11 names Barak among figures remembered for faith.",
       "url": null
     }
   ]
