@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 41,
+  "contentVersion": 42,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2686,6 +2686,46 @@
       "title": "Book of Judges",
       "type": "Scripture",
       "note": "Primary biblical account of Jael giving refuge to Sisera and killing him after his defeat.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH065",
+  "name": "Gideon",
+  "category": "Battles & Wars",
+  "subtitle": "Judge Who Defeated Midian with 300 Men",
+  "dateDisplay": "Period of the Judges; precise date debated",
+  "summary": "Gideon was an Israelite judge called by God during a period when the Midianites were oppressing Israel. Initially uncertain of his calling, Gideon asked for signs, including the famous sign involving a fleece. He eventually led a force of only three hundred men against a much larger Midianite army and won a dramatic victory.",
+  "scriptureReferences": [
+    "Judges 6:1–40",
+    "Judges 7:1–25",
+    "Judges 8:1–35",
+    "Hebrews 11:32"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Gideon was the son of Joash and belonged to the tribe of Manasseh.",
+    "An angel called Gideon while he was threshing wheat in a winepress to hide it from the Midianites.",
+    "Gideon destroyed an altar to Baal and received the name Jerubbaal.",
+    "He asked God for signs involving a wool fleece before going into battle.",
+    "Gideon's army was reduced to only three hundred men.",
+    "His men used trumpets, jars, and torches during their surprise attack on the Midianite camp.",
+    "After his victory, Gideon refused Israel's request that he establish a hereditary kingship over them."
+  ],
+  "location": "Ophrah / Jezreel Valley / northern Israel",
+  "certaintyNote": "Gideon is known primarily from Judges 6–8. The biblical account places his conflict with Midian during the decentralized period before Israel's monarchy, although the precise chronology and historical reconstruction of the events remain debated.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Scripture",
+      "note": "Primary biblical account of Gideon's calling, signs, campaign against Midian, and later leadership.",
+      "url": null
+    },
+    {
+      "title": "Book of Hebrews",
+      "type": "Scripture",
+      "note": "Hebrews 11 names Gideon among figures remembered for faith.",
       "url": null
     }
   ]
