@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 33,
+  "contentVersion": 34,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2397,6 +2397,41 @@
       "title": "Book of Hebrews",
       "type": "Scripture",
       "note": "Hebrews 11:30 recalls the fall of Jericho's walls as an example of faith.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH057",
+  "name": "Ai",
+  "category": "Places & Events",
+  "subtitle": "Canaanite City Conquered After Jericho",
+  "dateDisplay": "Late Bronze Age; precise identification and date debated",
+  "summary": "Ai was a Canaanite city encountered by the Israelites shortly after the fall of Jericho. According to the Book of Joshua, Israel's first attack on Ai ended in defeat because Achan had violated God's command concerning items taken from Jericho. After the matter was addressed, Joshua led a second campaign using an ambush, and the city was captured.",
+  "scriptureReferences": [
+    "Joshua 7:1–26",
+    "Joshua 8:1–29"
+  ],
+  "relatedEntryIDs": [
+    "BH052",
+    "BH055",
+    "BH056"
+  ],
+  "quickFacts": [
+    "Ai was located near Bethel according to the biblical account.",
+    "Israel's first attack on Ai ended in defeat.",
+    "Joshua discovered that Achan had taken prohibited items from Jericho.",
+    "After Achan's sin was addressed, Israel returned to Ai.",
+    "Joshua used an ambush during the second attack.",
+    "The identification of biblical Ai with a specific archaeological site remains debated."
+  ],
+  "location": "Canaan / near Bethel",
+  "certaintyNote": "The location and archaeological identification of biblical Ai remain debated. Et-Tell has traditionally been identified with Ai, but archaeological findings there have led scholars to propose different chronologies, interpretations, and possible locations.",
+  "sources": [
+    {
+      "title": "Book of Joshua",
+      "type": "Scripture",
+      "note": "Primary biblical account of Israel's defeat and later victory at Ai.",
       "url": null
     }
   ]
