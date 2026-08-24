@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 40,
+  "contentVersion": 41,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2651,6 +2651,41 @@
       "title": "Book of Judges",
       "type": "Scripture",
       "note": "Primary biblical account of Sisera's army, his defeat by Barak's forces, and his death at the hands of Jael.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH064",
+  "name": "Jael",
+  "category": "Places & Events",
+  "subtitle": "Woman Who Defeated Sisera",
+  "dateDisplay": "Period of the Judges; precise date debated",
+  "summary": "Jael was the wife of Heber the Kenite and played a decisive role in Israel's victory over the Canaanite commander Sisera. After Sisera's army was defeated by Barak's forces, he fled on foot and sought refuge in Jael's tent. She welcomed him inside, but while he slept, Jael killed him with a tent peg. The Song of Deborah later praised Jael for her actions.",
+  "scriptureReferences": [
+    "Judges 4:17–24",
+    "Judges 5:24–27"
+  ],
+  "relatedEntryIDs": [
+    "BH061",
+    "BH062",
+    "BH063"
+  ],
+  "quickFacts": [
+    "Jael was the wife of Heber the Kenite.",
+    "Sisera fled to Jael's tent after his army was defeated.",
+    "Jael welcomed Sisera into her tent and covered him with a blanket.",
+    "When Sisera asked for water, Jael gave him milk.",
+    "While Sisera slept, Jael killed him with a tent peg and hammer.",
+    "The Song of Deborah praises Jael as 'most blessed of women.'"
+  ],
+  "location": "Near Kedesh / northern Canaan",
+  "certaintyNote": "Jael is known from Judges 4 and the poetic account in Judges 5. The Song of Deborah is regarded by many scholars as one of the Hebrew Bible's oldest poetic texts, although the precise dating and historical reconstruction of these events remain debated.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Scripture",
+      "note": "Primary biblical account of Jael giving refuge to Sisera and killing him after his defeat.",
       "url": null
     }
   ]
