@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 46,
+  "contentVersion": 47,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2884,6 +2884,41 @@
       "title": "Epistle to the Hebrews",
       "type": "Primary biblical text",
       "note": "Hebrews 11:32 names Samson among figures remembered for faith.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH070",
+  "name": "Delilah",
+  "category": "Places & Events",
+  "subtitle": "The Woman Who Betrayed Samson",
+  "dateDisplay": "Period of the Judges; traditionally placed in the 12th–11th century BC",
+  "summary": "Delilah was a woman from the Valley of Sorek whose relationship with Samson became central to his downfall. After learning that Samson loved her, the rulers of the Philistines offered Delilah a large payment if she could discover the source of his extraordinary strength and help them overpower him. Delilah repeatedly questioned Samson, and several times he gave her false explanations. Eventually Samson revealed that his hair had never been cut because he had been dedicated to God as a Nazirite from his mother's womb. Delilah recognized that he had finally told her the truth. While Samson slept, she arranged for his hair to be cut. The Philistines then seized him, blinded him, and took him to Gaza. Although Delilah disappears from the biblical narrative after Samson's capture, her role marks the turning point that leads to the final events of Samson's life.",
+  "scriptureReferences": [
+    "Judges 16:4–22"
+  ],
+  "relatedEntryIDs": [
+    "BH069"
+  ],
+  "quickFacts": [
+    "Delilah lived in or was associated with the Valley of Sorek.",
+    "The Bible says Samson loved Delilah.",
+    "The rulers of the Philistines offered Delilah money to discover the secret of Samson's strength.",
+    "Samson initially gave Delilah several false explanations for his strength.",
+    "Delilah continued pressing Samson until he revealed the truth about his uncut hair.",
+    "Samson had been dedicated to God as a Nazirite from before his birth.",
+    "Delilah arranged for Samson's hair to be cut while he slept.",
+    "The Philistines captured and blinded Samson after his hair was cut.",
+    "The biblical text does not describe what happened to Delilah afterward."
+  ],
+  "location": "Valley of Sorek, near the Philistine-Israelite border region",
+  "certaintyNote": "Delilah is known from Judges 16. The biblical text identifies her with the Valley of Sorek but does not explicitly state her ethnicity or what happened to her after Samson's capture.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Primary biblical text",
+      "note": "Judges 16:4–22 records Delilah's relationship with Samson, the Philistine rulers' offer to her, Samson's disclosure concerning his hair, and his subsequent capture.",
       "url": null
     }
   ]
