@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 47,
+  "contentVersion": 48,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2919,6 +2919,48 @@
       "title": "Book of Judges",
       "type": "Primary biblical text",
       "note": "Judges 16:4–22 records Delilah's relationship with Samson, the Philistine rulers' offer to her, Samson's disclosure concerning his hair, and his subsequent capture.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH071",
+  "name": "Samuel",
+  "category": "Prophets",
+  "subtitle": "Prophet, Judge, and Leader of Israel",
+  "dateDisplay": "Late period of the Judges and beginning of the monarchy; traditionally placed in the 11th century BC",
+  "summary": "Samuel was a prophet, judge, and spiritual leader who lived during one of the most important transitions in Israel's history. His mother Hannah prayed for a son and promised to dedicate him to the Lord. After Samuel was born, she brought him to serve at the sanctuary under Eli. While still young, Samuel received a call from God and became recognized as a prophet. As an adult, he called Israel to turn away from foreign gods and led the nation during conflict with the Philistines. When the people later demanded a king like the surrounding nations, Samuel warned them about the consequences of monarchy but followed God's instruction to appoint one. He anointed Saul as Israel's first king. After Saul disobeyed God's commands, Samuel announced that his kingdom would not endure and later traveled to Bethlehem, where he anointed the young David. Samuel's life connects the era of the judges with the establishment of Israel's monarchy.",
+  "scriptureReferences": [
+    "1 Samuel 1:1–28",
+    "1 Samuel 3:1–21",
+    "1 Samuel 7:3–17",
+    "1 Samuel 8:1–22",
+    "1 Samuel 9:1–10:27",
+    "1 Samuel 13:13–14",
+    "1 Samuel 15:1–35",
+    "1 Samuel 16:1–13",
+    "1 Samuel 25:1"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Samuel was the son of Elkanah and Hannah.",
+    "Hannah dedicated Samuel to the Lord after praying for a son.",
+    "Samuel served under the priest Eli while still a boy.",
+    "God called Samuel during the night at the sanctuary.",
+    "Samuel became recognized throughout Israel as a prophet.",
+    "He served Israel as a judge and spiritual leader.",
+    "Samuel anointed Saul as Israel's first king.",
+    "He later confronted Saul over his disobedience.",
+    "Samuel anointed David at Bethlehem while Saul was still king.",
+    "Samuel's life marks the transition from the judges to the monarchy."
+  ],
+  "location": "Ramah, Shiloh, Mizpah, Gilgal, and Bethlehem",
+  "certaintyNote": "Samuel is a central figure in 1 Samuel and is also mentioned elsewhere in the Hebrew Bible. The precise chronology and dating of his life are debated, but the biblical narrative places him at the transition between the period of the judges and Israel's monarchy.",
+  "sources": [
+    {
+      "title": "First Book of Samuel",
+      "type": "Primary biblical text",
+      "note": "1 Samuel records Samuel's birth, prophetic calling, leadership of Israel, anointing of Saul, confrontation with Saul, and anointing of David.",
       "url": null
     }
   ]
