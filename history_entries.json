@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 45,
+  "contentVersion": 46,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2839,6 +2839,51 @@
       "title": "Epistle to the Hebrews",
       "type": "Primary biblical text",
       "note": "Hebrews 11:32 names Jephthah among figures remembered for faith.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH069",
+  "name": "Samson",
+  "category": "Kings & Royalty",
+  "subtitle": "Judge of Israel Known for Extraordinary Strength",
+  "dateDisplay": "Period of the Judges; traditionally placed in the 12th–11th century BC",
+  "summary": "Samson was a judge of Israel whose story centers on Israel's conflict with the Philistines. Before his birth, an angel announced to his mother that her son would be dedicated to God as a Nazirite and would begin to deliver Israel from Philistine oppression. Samson became known for extraordinary feats of strength, including killing a lion with his bare hands, defeating Philistines with the jawbone of a donkey, and carrying away the gates of Gaza. His conflicts with the Philistines were often intertwined with his personal relationships. Samson later fell in love with Delilah, who repeatedly pressed him to reveal the secret connected with his strength. After Samson told her about his uncut hair, the Philistines captured him, blinded him, and imprisoned him. His hair eventually began to grow again. During a celebration in the temple of Dagon, Samson prayed to God for strength one final time and pushed apart the supporting pillars, bringing down the temple upon himself and the assembled Philistines. Samson judged Israel for twenty years.",
+  "scriptureReferences": [
+    "Judges 13:1–25",
+    "Judges 14:1–20",
+    "Judges 15:1–20",
+    "Judges 16:1–31",
+    "Hebrews 11:32"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Samson was the son of Manoah from the tribe of Dan.",
+    "His birth was announced by an angel before he was conceived.",
+    "He was dedicated as a Nazirite from the womb.",
+    "Samson killed a lion with his bare hands.",
+    "He killed a thousand Philistines using the jawbone of a donkey.",
+    "Samson carried away the gates of Gaza.",
+    "Delilah was paid by Philistine rulers to discover the secret connected with his strength.",
+    "After his hair was cut, Samson was captured and blinded by the Philistines.",
+    "Samson died while destroying a Philistine temple dedicated to Dagon.",
+    "He judged Israel for twenty years.",
+    "Samson is named among the figures of faith in Hebrews 11."
+  ],
+  "location": "Zorah, Timnah, Gaza, and the Sorek Valley",
+  "certaintyNote": "Samson is known primarily from Judges 13–16 and is also named in Hebrews 11:32. The biblical narrative places his judgeship during a period of Philistine domination over Israel.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Primary biblical text",
+      "note": "Judges 13–16 contains the biblical account of Samson's birth, exploits, conflicts with the Philistines, relationship with Delilah, capture, and death.",
+      "url": null
+    },
+    {
+      "title": "Epistle to the Hebrews",
+      "type": "Primary biblical text",
+      "note": "Hebrews 11:32 names Samson among figures remembered for faith.",
       "url": null
     }
   ]
