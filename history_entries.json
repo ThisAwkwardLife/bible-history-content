@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 49,
+  "contentVersion": 50,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -1124,7 +1124,7 @@
   ]
 },
   {
-  "id": "BH028",
+  "id": "BH073",
   "name": "Daniel",
   "category": "Prophets",
   "subtitle": "Prophet in Babylon",
