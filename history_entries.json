@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 42,
+  "contentVersion": 43,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2726,6 +2726,40 @@
       "title": "Book of Hebrews",
       "type": "Scripture",
       "note": "Hebrews 11 names Gideon among figures remembered for faith.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH066",
+  "name": "Abimelech",
+  "category": "Kings & Royalty",
+  "subtitle": "Gideon's Son Who Seized Power at Shechem",
+  "dateDisplay": "Period of the Judges; traditionally placed in the 12th–11th century BC",
+  "summary": "Abimelech was a son of Gideon who attempted to establish himself as ruler after his father's death. With support from his mother's relatives in Shechem, he killed seventy of his brothers on one stone, though the youngest, Jotham, escaped. The leaders of Shechem then made Abimelech king. His violent rule lasted three years before conflict erupted between him and the people who had supported him. Abimelech eventually attacked Thebez, where a woman dropped an upper millstone from a tower onto his head. Mortally wounded, he ordered his armor-bearer to kill him so that it would not be said that a woman had killed him. The account presents Abimelech's rise and fall as judgment for the violence committed against Gideon's family.",
+  "scriptureReferences": [
+    "Judges 8:31",
+    "Judges 9:1–57"
+  ],
+  "relatedEntryIDs": [
+    "BH065"
+  ],
+  "quickFacts": [
+    "Abimelech was a son of Gideon by a concubine from Shechem.",
+    "He gained political support from his mother's relatives in Shechem.",
+    "He killed seventy of his brothers; Jotham alone escaped.",
+    "The people of Shechem made Abimelech king.",
+    "His rule lasted three years.",
+    "Jotham warned the people of Shechem through his famous parable of the trees.",
+    "Abimelech was mortally wounded when a woman dropped an upper millstone on his head at Thebez."
+  ],
+  "location": "Shechem and Thebez, central Canaan",
+  "certaintyNote": "Abimelech is known primarily from Judges 9. The biblical narrative provides the principal account of his life and rule.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Primary biblical text",
+      "note": "Judges 8:31 and Judges 9 contain the biblical account of Abimelech.",
       "url": null
     }
   ]
