@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 44,
+  "contentVersion": 45,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2796,6 +2796,49 @@
       "title": "Book of Judges",
       "type": "Primary biblical text",
       "note": "Judges 9:5–21 records Jotham's escape, parable, warning, and flight, while Judges 9:56–57 connects the downfall of Abimelech and Shechem with the violence committed against Gideon's sons.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH068",
+  "name": "Jephthah",
+  "category": "Kings & Royalty",
+  "subtitle": "Judge Who Delivered Israel from the Ammonites",
+  "dateDisplay": "Period of the Judges; traditionally placed in the 12th–11th century BC",
+  "summary": "Jephthah was a judge of Israel from Gilead who led the Israelites against the Ammonites. The son of Gilead and a prostitute, Jephthah was driven away by his half-brothers and settled in the land of Tob, where he became the leader of a group of men. When the Ammonites threatened Gilead, its elders asked Jephthah to return and command their forces. Before going to battle, Jephthah attempted to resolve the conflict through negotiation and recounted Israel's history east of the Jordan. When diplomacy failed, the Spirit of the Lord came upon Jephthah and he advanced against Ammon. Jephthah made a controversial vow concerning whatever came from the doors of his house to meet him if he returned victorious. Israel defeated the Ammonites, but Jephthah's daughter was the first to come out to meet him. His story later includes a conflict with the tribe of Ephraim and the famous use of the word 'Shibboleth' to identify fleeing Ephraimites. Jephthah judged Israel for six years.",
+  "scriptureReferences": [
+    "Judges 10:6–18",
+    "Judges 11:1–40",
+    "Judges 12:1–7",
+    "Hebrews 11:32"
+  ],
+  "relatedEntryIDs": [],
+  "quickFacts": [
+    "Jephthah was from Gilead, east of the Jordan River.",
+    "He was driven away from his family and lived in the land of Tob.",
+    "The elders of Gilead later asked him to lead them against the Ammonites.",
+    "Jephthah first attempted to settle the dispute with Ammon through diplomacy.",
+    "The Spirit of the Lord came upon Jephthah before his campaign against the Ammonites.",
+    "He made a controversial vow before his victory over Ammon.",
+    "Jephthah's daughter was his only child.",
+    "The word 'Shibboleth' was used to distinguish Ephraimites during a later conflict.",
+    "Jephthah judged Israel for six years.",
+    "Jephthah is named among the figures of faith in Hebrews 11."
+  ],
+  "location": "Gilead, Mizpah, Tob, and territory east of the Jordan River",
+  "certaintyNote": "Jephthah is known primarily from Judges 10–12 and is also named in Hebrews 11:32. Interpretations differ over the nature and fulfillment of Jephthah's vow concerning his daughter.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Primary biblical text",
+      "note": "Judges 10–12 records Jephthah's background, leadership, war against Ammon, vow, conflict with Ephraim, and six years as judge.",
+      "url": null
+    },
+    {
+      "title": "Epistle to the Hebrews",
+      "type": "Primary biblical text",
+      "note": "Hebrews 11:32 names Jephthah among figures remembered for faith.",
       "url": null
     }
   ]
