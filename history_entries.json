@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 48,
+  "contentVersion": 49,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2964,6 +2964,44 @@
       "url": null
     }
   ]
+},
+  {
+  "id": "BH072",
+  "name": "Eli",
+  "category": "Prophets",
+  "subtitle": "Priest and Judge Who Raised Samuel at Shiloh",
+  "dateDisplay": "Late period of the Judges; traditionally placed in the 11th century BC",
+  "summary": "Eli was a priest and judge of Israel who served at the sanctuary in Shiloh during the childhood of Samuel. He first appears when Hannah came to Shiloh and prayed for a son. Eli initially misunderstood her silent prayer but later blessed her, and after Samuel was born Hannah brought the boy to serve before the Lord under Eli's supervision. Eli's own sons, Hophni and Phinehas, were priests whose corrupt behavior brought condemnation upon Eli's household. Although Eli rebuked them, the biblical account says he failed to restrain them adequately. When God called Samuel during the night, Eli eventually recognized what was happening and instructed Samuel to listen for the Lord. Samuel then received a message announcing judgment against Eli's family. Later, Israel fought the Philistines and the Ark of the Covenant was captured. Hophni and Phinehas were killed in the battle. When Eli heard that the Ark had been captured, he fell backward from his seat, broke his neck, and died. He had judged Israel for forty years.",
+  "scriptureReferences": [
+    "1 Samuel 1:9–28",
+    "1 Samuel 2:11–36",
+    "1 Samuel 3:1–18",
+    "1 Samuel 4:1–18"
+  ],
+  "relatedEntryIDs": [
+    "BH071"
+  ],
+  "quickFacts": [
+    "Eli served as a priest at the sanctuary in Shiloh.",
+    "He blessed Hannah after she prayed for a son.",
+    "Samuel served under Eli after Hannah dedicated him to the Lord.",
+    "Eli's sons were Hophni and Phinehas.",
+    "Hophni and Phinehas abused their priestly positions.",
+    "Eli helped the young Samuel recognize that God was calling him.",
+    "Samuel's first recorded prophetic message announced judgment against Eli's household.",
+    "Eli was ninety-eight years old when he died.",
+    "He died after hearing that the Ark of the Covenant had been captured by the Philistines.",
+    "Eli judged Israel for forty years."
+  ],
+  "location": "Shiloh, in the hill country of Ephraim",
+  "certaintyNote": "Eli is known primarily from the opening chapters of 1 Samuel. The biblical narrative identifies him as a priest at Shiloh and states that he judged Israel for forty years.",
+  "sources": [
+    {
+      "title": "First Book of Samuel",
+      "type": "Primary biblical text",
+      "note": "1 Samuel 1–4 records Eli's priesthood at Shiloh, his relationship with Samuel, the corruption of his sons, the judgment against his household, and his death.",
+      "url": null
+    }
+  ]
 }
 ]
-}
