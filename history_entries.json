@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 43,
+  "contentVersion": 44,
   "updatedAt": "2026-08-11T15:00:00Z",
   "items":
 [
@@ -2760,6 +2760,42 @@
       "title": "Book of Judges",
       "type": "Primary biblical text",
       "note": "Judges 8:31 and Judges 9 contain the biblical account of Abimelech.",
+      "url": null
+    }
+  ]
+},
+  {
+  "id": "BH067",
+  "name": "Jotham",
+  "category": "Prophets",
+  "subtitle": "Gideon's Son Who Warned Shechem",
+  "dateDisplay": "Period of the Judges; traditionally placed in the 12th–11th century BC",
+  "summary": "Jotham was the youngest son of Gideon and the only one of Gideon's seventy sons to escape when Abimelech murdered his brothers. After the people of Shechem made Abimelech king, Jotham stood on Mount Gerizim and delivered a warning through a parable about trees seeking a king. In the parable, productive trees refused to rule over the others, while the thornbush accepted the offer and threatened destruction. Jotham used the story to challenge whether the people of Shechem had acted honorably toward Gideon's family by supporting Abimelech. He warned that if they had acted treacherously, Abimelech and Shechem would ultimately destroy one another. Jotham then fled for his safety. The later events of Judges 9 portray his warning as being fulfilled.",
+  "scriptureReferences": [
+    "Judges 9:5–21",
+    "Judges 9:56–57"
+  ],
+  "relatedEntryIDs": [
+    "BH065",
+    "BH066"
+  ],
+  "quickFacts": [
+    "Jotham was the youngest son of Gideon.",
+    "He escaped when Abimelech killed his brothers.",
+    "He delivered his warning from Mount Gerizim.",
+    "Jotham's parable describes trees searching for a king.",
+    "The olive tree, fig tree, and vine refuse to rule in the parable.",
+    "The thornbush accepts the offer to become king.",
+    "Jotham warned that Abimelech and the leaders of Shechem would ultimately turn against one another.",
+    "After giving his warning, Jotham fled and lived at Beer."
+  ],
+  "location": "Mount Gerizim, Shechem, and Beer",
+  "certaintyNote": "Jotham is known from the biblical account in Judges 9. The text identifies him as Gideon's youngest surviving son and preserves his parable and warning against Abimelech and Shechem.",
+  "sources": [
+    {
+      "title": "Book of Judges",
+      "type": "Primary biblical text",
+      "note": "Judges 9:5–21 records Jotham's escape, parable, warning, and flight, while Judges 9:56–57 connects the downfall of Abimelech and Shechem with the violence committed against Gideon's sons.",
       "url": null
     }
   ]
